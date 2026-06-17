@@ -1,0 +1,2201 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - navigation [ref=e5]:
+      - generic [ref=e6]:
+        - link "Logo" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "Logo" [ref=e8]
+        - generic [ref=e9]:
+          - button "Buy" [ref=e11] [cursor=pointer]: Buy
+          - button "Rent" [ref=e14] [cursor=pointer]: Rent
+          - button "Sell" [ref=e17] [cursor=pointer]: Sell
+          - button "New Projects" [ref=e20] [cursor=pointer]: New Projects
+          - button "Guides" [ref=e23] [cursor=pointer]
+          - button "More" [ref=e25] [cursor=pointer]: More
+        - generic [ref=e28]:
+          - button "Notifications" [ref=e38] [cursor=pointer]
+          - button "Login" [ref=e42] [cursor=pointer]:
+            - generic [ref=e43]: Login
+    - generic [ref=e44]:
+      - generic [ref=e49]:
+        - navigation "breadcrumb" [ref=e50]:
+          - list [ref=e51]:
+            - listitem [ref=e52]:
+              - link "Home" [ref=e53] [cursor=pointer]:
+                - /url: /
+            - listitem: / Property for Sale
+        - link "Switch to CommercialGuru" [ref=e54] [cursor=pointer]:
+          - /url: https://www.commercialguru.com.sg/find-commercial-properties/property-for-sale?pageRefererType=Listing%20Search
+          - generic [ref=e55]: Switch to CommercialGuru
+      - generic [ref=e59]:
+        - generic [ref=e60]:
+          - generic [ref=e64]:
+            - combobox "Search Location" [ref=e69]
+            - textbox
+          - button "Save Search" [ref=e73] [cursor=pointer]:
+            - generic [ref=e76]: Save Search
+        - generic [ref=e80]:
+          - button "Filters" [ref=e82] [cursor=pointer]:
+            - generic [ref=e85]: Filters
+          - button "Property Type" [ref=e87] [cursor=pointer]:
+            - generic [ref=e90]: Property Type
+          - button "Price" [ref=e92] [cursor=pointer]:
+            - generic [ref=e95]: Price
+          - button "Bedroom" [ref=e97] [cursor=pointer]:
+            - generic [ref=e100]: Bedroom
+      - generic [ref=e104]:
+        - button "All" [ref=e105] [cursor=pointer]: All
+        - button "New Projects" [ref=e107] [cursor=pointer]: New Projects
+        - button "Eligible Properties" [ref=e109] [cursor=pointer]: Eligible Properties
+      - generic [ref=e111]:
+        - generic [ref=e114]:
+          - heading "56,370 Properties for Sale in Singapore" [level=1] [ref=e115]
+          - generic [ref=e116]:
+            - generic [ref=e118]:
+              - generic [ref=e119]: Map View
+              - generic [ref=e123] [cursor=pointer]: 
+            - button "Recommended" [ref=e124] [cursor=pointer]:
+              - generic [ref=e128]:
+                - textbox: Recommended
+        - generic [ref=e133]:
+          - generic [ref=e135]:
+            - generic [ref=e136]:
+              - generic [ref=e137]:
+                - generic [ref=e139]:
+                  - img "Andrew Shih" [ref=e142]
+                  - generic [ref=e143]:
+                    - generic [ref=e145]: Andrew Shih
+                    - generic [ref=e146]: PROPNEX REALTY PTE. LTD.
+                    - link "View Profile" [ref=e147] [cursor=pointer]:
+                      - /url: /agent/andrew-shih-383144
+                - generic "For Sale Caribbean at Keppel Bay" [ref=e148]:
+                  - generic [ref=e149]:
+                    - generic [ref=e150]:
+                      - generic [ref=e152]:
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Living Room - PropertyGuru.com.sg" [ref=e154] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Living Room - PropertyGuru.com.sg" [ref=e155]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - View - PropertyGuru.com.sg" [ref=e157] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - View - PropertyGuru.com.sg" [ref=e158]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Living Room - PropertyGuru.com.sg" [ref=e160] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Living Room - PropertyGuru.com.sg" [ref=e161]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Study - PropertyGuru.com.sg" [ref=e163] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Study - PropertyGuru.com.sg" [ref=e164]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Living Room - PropertyGuru.com.sg" [ref=e166] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Living Room - PropertyGuru.com.sg" [ref=e167]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Living Room - PropertyGuru.com.sg" [ref=e169] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Living Room - PropertyGuru.com.sg" [ref=e170]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Kitchen - PropertyGuru.com.sg" [ref=e172] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Kitchen - PropertyGuru.com.sg" [ref=e173]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Kitchen - PropertyGuru.com.sg" [ref=e175] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Kitchen - PropertyGuru.com.sg" [ref=e176]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Dining Room - PropertyGuru.com.sg" [ref=e178] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Dining Room - PropertyGuru.com.sg" [ref=e179]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Bedroom - PropertyGuru.com.sg" [ref=e181] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Bedroom - PropertyGuru.com.sg" [ref=e182]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Bathroom - PropertyGuru.com.sg" [ref=e184] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Bathroom - PropertyGuru.com.sg" [ref=e185]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Bedroom - PropertyGuru.com.sg" [ref=e187] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Bedroom - PropertyGuru.com.sg" [ref=e188]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Bedroom - PropertyGuru.com.sg" [ref=e190] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Bedroom - PropertyGuru.com.sg" [ref=e191]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Bathroom - PropertyGuru.com.sg" [ref=e193] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Bathroom - PropertyGuru.com.sg" [ref=e194]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Exterior - PropertyGuru.com.sg" [ref=e196] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - Exterior - PropertyGuru.com.sg" [ref=e197]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e199] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e200]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e202] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e203]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e205] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e206]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e208] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e209]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e211] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e212]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e214] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e215]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e217] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e218]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e220] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e221]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e223] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e224]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e226] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e227]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e229] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e230]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e232] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e233]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e235] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e236]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e238] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e239]
+                        - link "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e241] [cursor=pointer]:
+                          - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                          - img "Caribbean at Keppel Bay, 10 Keppel Bay Drive, 3 Bedrooms, 1,313 sqft, Condominium For Sale, by Andrew Shih, 500032533 - PropertyGuru.com.sg" [ref=e242]
+                      - generic [ref=e244]:
+                        - button "Slide 1" [ref=e245] [cursor=pointer]
+                        - button "Slide 2" [ref=e246] [cursor=pointer]
+                        - button "Slide 3" [ref=e247] [cursor=pointer]
+                        - button "Slide 4" [ref=e248] [cursor=pointer]
+                        - button "Slide 5" [ref=e249] [cursor=pointer]
+                        - button "Slide 6" [ref=e250] [cursor=pointer]
+                        - button "Slide 7" [ref=e251] [cursor=pointer]
+                        - button "Slide 8" [ref=e252] [cursor=pointer]
+                        - button "Slide 9" [ref=e253] [cursor=pointer]
+                        - button "Slide 10" [ref=e254] [cursor=pointer]
+                        - button "Slide 11" [ref=e255] [cursor=pointer]
+                        - button "Slide 12" [ref=e256] [cursor=pointer]
+                        - button "Slide 13" [ref=e257] [cursor=pointer]
+                        - button "Slide 14" [ref=e258] [cursor=pointer]
+                        - button "Slide 15" [ref=e259] [cursor=pointer]
+                        - button "Slide 16" [ref=e260] [cursor=pointer]
+                        - button "Slide 17" [ref=e261] [cursor=pointer]
+                        - button "Slide 18" [ref=e262] [cursor=pointer]
+                        - button "Slide 19" [ref=e263] [cursor=pointer]
+                        - button "Slide 20" [ref=e264] [cursor=pointer]
+                        - button "Slide 21" [ref=e265] [cursor=pointer]
+                        - button "Slide 22" [ref=e266] [cursor=pointer]
+                        - button "Slide 23" [ref=e267] [cursor=pointer]
+                        - button "Slide 24" [ref=e268] [cursor=pointer]
+                        - button "Slide 25" [ref=e269] [cursor=pointer]
+                        - button "Slide 26" [ref=e270] [cursor=pointer]
+                        - button "Slide 27" [ref=e271] [cursor=pointer]
+                        - button "Slide 28" [ref=e272] [cursor=pointer]
+                        - button "Slide 29" [ref=e273] [cursor=pointer]
+                        - button "Slide 30" [ref=e274] [cursor=pointer]
+                    - generic [ref=e275]:
+                      - link "29" [ref=e276] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533#media-images
+                        - generic [ref=e278]: "29"
+                      - link "1" [ref=e280] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533#media-floorPlans
+                        - generic [ref=e282]: "1"
+                    - generic [ref=e284]:
+                      - button "Hide Property" [ref=e285] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e288] [cursor=pointer]
+                - 'link "Top-Floor, Designer-Renovated 3-Bedroom at Caribbean at Keppel Bay S$ 2,700,000 S$ 2,056.36 psf Caribbean at Keppel Bay 10 Keppel Bay Drive 3 3 1,313 sqft Condominium 99-year Leasehold Built: 2004 9 min (730 m) from NE1 HarbourFront MRT Station Listed on Jun 16, 2026 (4m ago) Contact Agent WhatsApp" [ref=e291] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-caribbean-at-keppel-bay-500032533
+                  - generic [ref=e292]:
+                    - generic [ref=e295]: Top-Floor, Designer-Renovated 3-Bedroom at Caribbean at Keppel Bay
+                    - separator [ref=e297]
+                    - generic [ref=e298]:
+                      - generic [ref=e299]:
+                        - generic [ref=e301]:
+                          - generic [ref=e302]: S$ 2,700,000
+                          - paragraph [ref=e303]: S$ 2,056.36 psf
+                        - generic [ref=e304]:
+                          - generic [ref=e305]:
+                            - heading "Caribbean at Keppel Bay" [level=3] [ref=e307]
+                            - paragraph [ref=e308]: 10 Keppel Bay Drive
+                          - generic [ref=e309]:
+                            - paragraph [ref=e312]: "3"
+                            - paragraph [ref=e315]: "3"
+                            - paragraph [ref=e318]: 1,313 sqft
+                            - paragraph [ref=e321]: Condominium
+                            - paragraph [ref=e324]: 99-year Leasehold
+                            - paragraph [ref=e327]: "Built: 2004"
+                      - generic [ref=e328]:
+                        - generic [ref=e331]: 9 min (730 m) from NE1 HarbourFront MRT Station
+                        - list [ref=e332]:
+                          - generic [ref=e335]: Listed on Jun 16, 2026 (4m ago)
+                  - generic [ref=e336]:
+                    - generic [ref=e337]: Contact Agent
+                    - generic [ref=e338]:
+                      - button [ref=e339]:
+                        - img [ref=e341]
+                      - button [ref=e342]:
+                        - img [ref=e344]
+                      - button [ref=e345]:
+                        - img [ref=e347]
+                      - button "WhatsApp" [ref=e348]:
+                        - generic [ref=e349]:
+                          - img [ref=e350]
+                          - text: WhatsApp
+              - generic [ref=e353]:
+                - button "Toggle sell with me agents" [expanded] [ref=e354] [cursor=pointer]:
+                  - generic [ref=e355]:
+                    - generic [ref=e356]: Looking to sell your property?
+                    - generic [ref=e357]: Connect with sales specialists based on your search
+                - generic [ref=e361]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                - generic [ref=e362]:
+                  - generic [ref=e364]:
+                    - text: By continuing, you agree to the
+                    - link "Terms" [ref=e365] [cursor=pointer]:
+                      - /url: /customer-service/terms-of-service
+                    - text: "&"
+                    - link "Privacy Policy" [ref=e366] [cursor=pointer]:
+                      - /url: /customer-service/privacy
+                  - separator [ref=e367]
+                  - button "Hide these recommendations" [ref=e368] [cursor=pointer]:
+                    - generic [ref=e369]: Hide these recommendations
+              - generic [ref=e370]:
+                - generic [ref=e372]:
+                  - img "Stephen Yeo" [ref=e375]
+                  - generic [ref=e376]:
+                    - generic [ref=e378]: Stephen Yeo
+                    - generic [ref=e379]: PROPNEX REALTY PTE. LTD.
+                    - link "View Profile" [ref=e380] [cursor=pointer]:
+                      - /url: /agent/stephen-yeo-62346
+                - generic "For Sale Marina One Residences" [ref=e381]:
+                  - generic [ref=e382]:
+                    - generic [ref=e383]:
+                      - link "Image" [ref=e387] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-marina-one-residences-500168407
+                        - img "Image" [ref=e388]
+                      - button "Slide 1" [ref=e391] [cursor=pointer]
+                    - generic [ref=e392]:
+                      - link "13" [ref=e393] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-marina-one-residences-500168407#media-images
+                        - generic [ref=e395]: "13"
+                      - link "1" [ref=e397] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-marina-one-residences-500168407#media-floorPlans
+                        - generic [ref=e399]: "1"
+                    - generic [ref=e401]:
+                      - button "Hide Property" [ref=e402] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e405] [cursor=pointer]
+                - 'link "High Floor with Full Sea View - Sale with tenancy S$ 2,590,000 S$ 2,324.96 psf Marina One Residences 23 Marina Way 2 2 1,114 sqft Condominium 99-year Leasehold Built: 2017 2 min (160 m) from CE2 Marina Bay MRT Station Listed on Jun 16, 2026 (11m ago) Contact Agent WhatsApp" [ref=e408] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-marina-one-residences-500168407
+                  - generic [ref=e409]:
+                    - generic [ref=e412]: High Floor with Full Sea View - Sale with tenancy
+                    - separator [ref=e414]
+                    - generic [ref=e415]:
+                      - generic [ref=e416]:
+                        - generic [ref=e418]:
+                          - generic [ref=e419]: S$ 2,590,000
+                          - paragraph [ref=e420]: S$ 2,324.96 psf
+                        - generic [ref=e421]:
+                          - generic [ref=e422]:
+                            - heading "Marina One Residences" [level=3] [ref=e424]
+                            - paragraph [ref=e425]: 23 Marina Way
+                          - generic [ref=e426]:
+                            - paragraph [ref=e429]: "2"
+                            - paragraph [ref=e432]: "2"
+                            - paragraph [ref=e435]: 1,114 sqft
+                            - paragraph [ref=e438]: Condominium
+                            - paragraph [ref=e441]: 99-year Leasehold
+                            - paragraph [ref=e444]: "Built: 2017"
+                      - generic [ref=e445]:
+                        - generic [ref=e448]: 2 min (160 m) from CE2 Marina Bay MRT Station
+                        - list [ref=e449]:
+                          - generic [ref=e452]: Listed on Jun 16, 2026 (11m ago)
+                  - generic [ref=e453]:
+                    - generic [ref=e454]: Contact Agent
+                    - generic [ref=e455]:
+                      - button [ref=e456]:
+                        - img [ref=e458]
+                      - button [ref=e459]:
+                        - img [ref=e461]
+                      - button [ref=e462]:
+                        - img [ref=e464]
+                      - button "WhatsApp" [ref=e465]:
+                        - generic [ref=e466]:
+                          - img [ref=e467]
+                          - text: WhatsApp
+              - generic [ref=e468]:
+                - generic [ref=e470]:
+                  - img "Laura Lee" [ref=e473]
+                  - generic [ref=e474]:
+                    - generic [ref=e476]: Laura Lee
+                    - generic [ref=e477]: PROPNEX REALTY PTE. LTD.
+                    - link "View Profile" [ref=e478] [cursor=pointer]:
+                      - /url: /agent/laura-lee-448490
+                - generic "For Sale AMO Residence" [ref=e479]:
+                  - generic [ref=e480]:
+                    - generic [ref=e481]:
+                      - link "Image" [ref=e485] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-amo-residence-25643284
+                        - img "Image" [ref=e486]
+                      - button "Slide 1" [ref=e489] [cursor=pointer]
+                    - generic [ref=e490]:
+                      - link "8" [ref=e491] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-amo-residence-25643284#media-images
+                        - generic [ref=e493]: "8"
+                      - link "1" [ref=e495] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-amo-residence-25643284#media-floorPlans
+                        - generic [ref=e497]: "1"
+                    - generic [ref=e499]:
+                      - button "Hide Property" [ref=e500] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e503] [cursor=pointer]
+                - 'link "Stack 10 high floor reservoir view Mayflower MRT S$ 2,700,000 S$ 2,586.21 psf AMO Residence 21 Ang Mo Kio Rise 3 2 1,044 sqft Condominium 99-year Leasehold New Project: 2026 10 min (850 m) from TE6 Mayflower MRT Station Listed on Jun 16, 2026 (14m ago) Contact Agent WhatsApp" [ref=e506] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-amo-residence-25643284
+                  - generic [ref=e507]:
+                    - generic [ref=e510]: Stack 10 high floor reservoir view Mayflower MRT
+                    - separator [ref=e512]
+                    - generic [ref=e513]:
+                      - generic [ref=e514]:
+                        - generic [ref=e516]:
+                          - generic [ref=e517]: S$ 2,700,000
+                          - paragraph [ref=e518]: S$ 2,586.21 psf
+                        - generic [ref=e519]:
+                          - generic [ref=e520]:
+                            - heading "AMO Residence" [level=3] [ref=e522]
+                            - paragraph [ref=e523]: 21 Ang Mo Kio Rise
+                          - generic [ref=e524]:
+                            - paragraph [ref=e527]: "3"
+                            - paragraph [ref=e530]: "2"
+                            - paragraph [ref=e533]: 1,044 sqft
+                            - paragraph [ref=e536]: Condominium
+                            - paragraph [ref=e539]: 99-year Leasehold
+                            - paragraph [ref=e542]: "New Project: 2026"
+                      - generic [ref=e543]:
+                        - generic [ref=e546]: 10 min (850 m) from TE6 Mayflower MRT Station
+                        - list [ref=e547]:
+                          - generic [ref=e550]: Listed on Jun 16, 2026 (14m ago)
+                  - generic [ref=e551]:
+                    - generic [ref=e552]: Contact Agent
+                    - generic [ref=e553]:
+                      - button [ref=e554]:
+                        - img [ref=e556]
+                      - button [ref=e557]:
+                        - img [ref=e559]
+                      - button [ref=e560]:
+                        - img [ref=e562]
+                      - button "WhatsApp" [ref=e563]:
+                        - generic [ref=e564]:
+                          - img [ref=e565]
+                          - text: WhatsApp
+              - generic [ref=e566]:
+                - generic [ref=e568]:
+                  - img "Wilson Wong" [ref=e571]
+                  - generic [ref=e572]:
+                    - generic [ref=e574]: Wilson Wong
+                    - generic [ref=e575]: ERA REALTY NETWORK PTE LTD
+                    - link "View Profile" [ref=e576] [cursor=pointer]:
+                      - /url: /agent/wilson-wong-11217915
+                - generic "For Sale Paradise Island" [ref=e577]:
+                  - generic [ref=e578]:
+                    - generic [ref=e579]:
+                      - link "Image" [ref=e583] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-paradise-island-60155599
+                        - img "Image" [ref=e584]
+                      - button "Slide 1" [ref=e587] [cursor=pointer]
+                    - generic [ref=e588]:
+                      - link "15" [ref=e589] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-paradise-island-60155599#media-images
+                        - generic [ref=e591]: "15"
+                      - link "2" [ref=e593] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-paradise-island-60155599#media-videos
+                        - generic [ref=e595]: "2"
+                    - generic [ref=e597]:
+                      - button "Hide Property" [ref=e598] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e601] [cursor=pointer]
+                - 'link "Motivated Seller! 6 Bedrooms Sentosa Bungalow House for Sale! S$ 14,000,000 S$ 1,618.50 psf Paradise Island Paradise Island 6 7 10,763 sqft (floor), 8,650 sqft (land) Bungalow House 99-year Leasehold Built: 2009 Listed on Jun 16, 2026 (27m ago) Contact Agent WhatsApp" [ref=e604] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-paradise-island-60155599
+                  - generic [ref=e605]:
+                    - generic [ref=e608]: Motivated Seller! 6 Bedrooms Sentosa Bungalow House for Sale!
+                    - separator [ref=e610]
+                    - generic [ref=e611]:
+                      - generic [ref=e612]:
+                        - generic [ref=e614]:
+                          - generic [ref=e615]: S$ 14,000,000
+                          - paragraph [ref=e616]: S$ 1,618.50 psf
+                        - generic [ref=e617]:
+                          - generic [ref=e618]:
+                            - heading "Paradise Island" [level=3] [ref=e620]
+                            - paragraph [ref=e621]: Paradise Island
+                          - generic [ref=e622]:
+                            - paragraph [ref=e625]: "6"
+                            - paragraph [ref=e628]: "7"
+                            - paragraph [ref=e631]: 10,763 sqft (floor), 8,650 sqft (land)
+                            - paragraph [ref=e634]: Bungalow House
+                            - paragraph [ref=e637]: 99-year Leasehold
+                            - paragraph [ref=e640]: "Built: 2009"
+                      - list [ref=e642]:
+                        - generic [ref=e645]: Listed on Jun 16, 2026 (27m ago)
+                  - generic [ref=e646]:
+                    - generic [ref=e647]: Contact Agent
+                    - generic [ref=e648]:
+                      - button [ref=e649]:
+                        - img [ref=e651]
+                      - button [ref=e652]:
+                        - img [ref=e654]
+                      - button [ref=e655]:
+                        - img [ref=e657]
+                      - button "WhatsApp" [ref=e658]:
+                        - generic [ref=e659]:
+                          - img [ref=e660]
+                          - text: WhatsApp
+              - generic [ref=e661]:
+                - generic [ref=e663]:
+                  - img "Bryan Koh" [ref=e666]
+                  - generic [ref=e667]:
+                    - generic [ref=e669]: Bryan Koh
+                    - generic [ref=e670]: ERA REALTY NETWORK PTE LTD
+                    - link "View Profile" [ref=e671] [cursor=pointer]:
+                      - /url: /agent/bryan-koh-84573
+                - generic "For Sale Tanglin Regency" [ref=e672]:
+                  - generic [ref=e673]:
+                    - generic [ref=e674]:
+                      - link "Image" [ref=e678] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-tanglin-regency-500089576
+                        - img "Image" [ref=e679]
+                      - button "Slide 1" [ref=e682] [cursor=pointer]
+                    - generic [ref=e683]:
+                      - link "21" [ref=e684] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-tanglin-regency-500089576#media-images
+                        - generic [ref=e686]: "21"
+                      - link "1" [ref=e688] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-tanglin-regency-500089576#media-floorPlans
+                        - generic [ref=e690]: "1"
+                    - generic [ref=e692]:
+                      - button "Hide Property" [ref=e693] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e696] [cursor=pointer]
+                - 'link "Elegant 3BR Residence with Helper Room at Tanglin Regency, From $2.0xM S$ 2,000,000 S$ 1,803.43 psf Tanglin Regency 381 Tanglin Road 3 3 1,109 sqft Condominium 99-year Leasehold Built: 1998 5 min (410 m) from EW18 Redhill MRT Station Listed on Jun 16, 2026 (42m ago) Contact Agent WhatsApp" [ref=e699] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-tanglin-regency-500089576
+                  - generic [ref=e700]:
+                    - generic [ref=e703]: Elegant 3BR Residence with Helper Room at Tanglin Regency, From $2.0xM
+                    - separator [ref=e705]
+                    - generic [ref=e706]:
+                      - generic [ref=e707]:
+                        - generic [ref=e709]:
+                          - generic [ref=e710]: S$ 2,000,000
+                          - paragraph [ref=e711]: S$ 1,803.43 psf
+                        - generic [ref=e712]:
+                          - generic [ref=e713]:
+                            - heading "Tanglin Regency" [level=3] [ref=e715]
+                            - paragraph [ref=e716]: 381 Tanglin Road
+                          - generic [ref=e717]:
+                            - paragraph [ref=e720]: "3"
+                            - paragraph [ref=e723]: "3"
+                            - paragraph [ref=e726]: 1,109 sqft
+                            - paragraph [ref=e729]: Condominium
+                            - paragraph [ref=e732]: 99-year Leasehold
+                            - paragraph [ref=e735]: "Built: 1998"
+                      - generic [ref=e736]:
+                        - generic [ref=e739]: 5 min (410 m) from EW18 Redhill MRT Station
+                        - list [ref=e740]:
+                          - generic [ref=e743]: Listed on Jun 16, 2026 (42m ago)
+                  - generic [ref=e744]:
+                    - generic [ref=e745]: Contact Agent
+                    - generic [ref=e746]:
+                      - button [ref=e747]:
+                        - img [ref=e749]
+                      - button [ref=e750]:
+                        - img [ref=e752]
+                      - button [ref=e753]:
+                        - img [ref=e755]
+                      - button "WhatsApp" [ref=e756]:
+                        - generic [ref=e757]:
+                          - img [ref=e758]
+                          - text: WhatsApp
+              - generic [ref=e761]:
+                - button "Toggle sell with me agents" [expanded] [ref=e762] [cursor=pointer]:
+                  - generic [ref=e763]:
+                    - generic [ref=e764]: Looking to sell your property?
+                    - generic [ref=e765]: Connect with sales specialists based on your search
+                - generic [ref=e769]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                  - generic:
+                    - generic:
+                      - generic:
+                        - separator
+                - generic [ref=e770]:
+                  - generic [ref=e772]:
+                    - text: By continuing, you agree to the
+                    - link "Terms" [ref=e773] [cursor=pointer]:
+                      - /url: /customer-service/terms-of-service
+                    - text: "&"
+                    - link "Privacy Policy" [ref=e774] [cursor=pointer]:
+                      - /url: /customer-service/privacy
+                  - separator [ref=e775]
+                  - button "Hide these recommendations" [ref=e776] [cursor=pointer]:
+                    - generic [ref=e777]: Hide these recommendations
+              - generic [ref=e778]:
+                - generic [ref=e780]:
+                  - img "Ken Lim" [ref=e783]
+                  - generic [ref=e784]:
+                    - generic [ref=e786]: Ken Lim
+                    - generic [ref=e787]: HUTTONS ASIA PTE LTD
+                    - link "View Profile" [ref=e788] [cursor=pointer]:
+                      - /url: /agent/ken-lim-901518323
+                - generic "For Sale d'Leedon (Former Farrer Court)" [ref=e789]:
+                  - generic [ref=e790]:
+                    - generic [ref=e791]:
+                      - link "Image" [ref=e795] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-d-leedon-former-farrer-court-500129726
+                        - img "Image" [ref=e796]
+                      - button "Slide 1" [ref=e799] [cursor=pointer]
+                    - link "23" [ref=e801] [cursor=pointer]:
+                      - /url: https://www.propertyguru.com.sg/listing/for-sale-d-leedon-former-farrer-court-500129726#media-images
+                      - generic [ref=e803]: "23"
+                    - generic [ref=e805]:
+                      - button "Hide Property" [ref=e806] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e809] [cursor=pointer]
+                - 'link "Limited Foreigner eligible Townhouse S$ 4,455,880 S$ 1,183.19 psf d''Leedon (Former Farrer Court) 13 Leedon Heights 5 4 3,766 sqft Condominium 99-year Leasehold Built: 2014 4 min (370 m) from CC20 Farrer Road MRT Station Listed on Jun 16, 2026 (45m ago) Contact Agent WhatsApp" [ref=e812] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-d-leedon-former-farrer-court-500129726
+                  - generic [ref=e813]:
+                    - generic [ref=e816]: Limited Foreigner eligible Townhouse
+                    - separator [ref=e818]
+                    - generic [ref=e819]:
+                      - generic [ref=e820]:
+                        - generic [ref=e822]:
+                          - generic [ref=e823]: S$ 4,455,880
+                          - paragraph [ref=e824]: S$ 1,183.19 psf
+                        - generic [ref=e825]:
+                          - generic [ref=e826]:
+                            - heading "d'Leedon (Former Farrer Court)" [level=3] [ref=e828]
+                            - paragraph [ref=e829]: 13 Leedon Heights
+                          - generic [ref=e830]:
+                            - paragraph [ref=e833]: "5"
+                            - paragraph [ref=e836]: "4"
+                            - paragraph [ref=e839]: 3,766 sqft
+                            - paragraph [ref=e842]: Condominium
+                            - paragraph [ref=e845]: 99-year Leasehold
+                            - paragraph [ref=e848]: "Built: 2014"
+                      - generic [ref=e849]:
+                        - generic [ref=e852]: 4 min (370 m) from CC20 Farrer Road MRT Station
+                        - list [ref=e853]:
+                          - generic [ref=e856]: Listed on Jun 16, 2026 (45m ago)
+                  - generic [ref=e857]:
+                    - generic [ref=e858]: Contact Agent
+                    - generic [ref=e859]:
+                      - button [ref=e860]:
+                        - img [ref=e862]
+                      - button [ref=e863]:
+                        - img [ref=e865]
+                      - button [ref=e866]:
+                        - img [ref=e868]
+                      - button "WhatsApp" [ref=e869]:
+                        - generic [ref=e870]:
+                          - img [ref=e871]
+                          - text: WhatsApp
+              - generic [ref=e872]:
+                - generic [ref=e874]:
+                  - img "Eleanor Lee" [ref=e877]
+                  - generic [ref=e878]:
+                    - generic [ref=e880]: Eleanor Lee
+                    - generic [ref=e881]: HUTTONS ASIA PTE LTD
+                    - link "View Profile" [ref=e882] [cursor=pointer]:
+                      - /url: /agent/eleanor-lee-15179712
+                - generic "For Sale Grand Dunman" [ref=e883]:
+                  - generic [ref=e884]:
+                    - generic [ref=e885]:
+                      - link "Image" [ref=e889] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-grand-dunman-500165410
+                        - img "Image" [ref=e890]
+                      - button "Slide 1" [ref=e893] [cursor=pointer]
+                    - generic [ref=e894]:
+                      - link "12" [ref=e895] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-grand-dunman-500165410#media-images
+                        - generic [ref=e897]: "12"
+                      - link "1" [ref=e899] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-grand-dunman-500165410#media-floorPlans
+                        - generic [ref=e901]: "1"
+                    - generic [ref=e903]:
+                      - button "Hide Property" [ref=e904] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e907] [cursor=pointer]
+                - 'link "Key collection soon! Direct developer sale, choice units available! S$ 1,412,000 S$ 2,571.95 psf Grand Dunman 18 Dunman Road 1 1 549 sqft Condominium 99-year Leasehold New Project: 2028 2 min (170 m) from CC8 Dakota MRT Station Listed on Jun 16, 2026 (48m ago) Contact Agent WhatsApp" [ref=e910] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-grand-dunman-500165410
+                  - generic [ref=e911]:
+                    - generic [ref=e914]: Key collection soon! Direct developer sale, choice units available!
+                    - separator [ref=e916]
+                    - generic [ref=e917]:
+                      - generic [ref=e918]:
+                        - generic [ref=e920]:
+                          - generic [ref=e921]: S$ 1,412,000
+                          - paragraph [ref=e922]: S$ 2,571.95 psf
+                        - generic [ref=e923]:
+                          - generic [ref=e924]:
+                            - heading "Grand Dunman" [level=3] [ref=e926]
+                            - paragraph [ref=e927]: 18 Dunman Road
+                          - generic [ref=e928]:
+                            - paragraph [ref=e931]: "1"
+                            - paragraph [ref=e934]: "1"
+                            - paragraph [ref=e937]: 549 sqft
+                            - paragraph [ref=e940]: Condominium
+                            - paragraph [ref=e943]: 99-year Leasehold
+                            - paragraph [ref=e946]: "New Project: 2028"
+                      - generic [ref=e947]:
+                        - generic [ref=e950]: 2 min (170 m) from CC8 Dakota MRT Station
+                        - list [ref=e951]:
+                          - generic [ref=e954]: Listed on Jun 16, 2026 (48m ago)
+                  - generic [ref=e955]:
+                    - generic [ref=e956]: Contact Agent
+                    - generic [ref=e957]:
+                      - button [ref=e958]:
+                        - img [ref=e960]
+                      - button [ref=e961]:
+                        - img [ref=e963]
+                      - button [ref=e964]:
+                        - img [ref=e966]
+                      - button "WhatsApp" [ref=e967]:
+                        - generic [ref=e968]:
+                          - img [ref=e969]
+                          - text: WhatsApp
+              - generic [ref=e970]:
+                - generic [ref=e972]:
+                  - img "Joy Wong" [ref=e975]
+                  - generic [ref=e976]:
+                    - generic [ref=e978]: Joy Wong
+                    - generic [ref=e979]: HUTTONS ASIA PTE LTD
+                    - link "View Profile" [ref=e980] [cursor=pointer]:
+                      - /url: /agent/joy-wong-327872
+                - generic "For Sale Kent Ridge Hill Residences" [ref=e981]:
+                  - generic [ref=e982]:
+                    - generic [ref=e983]:
+                      - link "Image" [ref=e987] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-kent-ridge-hill-residences-500166232
+                        - img "Image" [ref=e988]
+                      - button "Slide 1" [ref=e991] [cursor=pointer]
+                    - generic [ref=e992]:
+                      - link "13" [ref=e993] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-kent-ridge-hill-residences-500166232#media-images
+                        - generic [ref=e995]: "13"
+                      - link "1" [ref=e997] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-kent-ridge-hill-residences-500166232#media-virtualTours
+                        - generic [ref=e999]: "1"
+                    - generic [ref=e1001]:
+                      - button "Hide Property" [ref=e1002] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e1005] [cursor=pointer]
+                - 'link "Rare 2 bed plus study greenery facing quiet home at Kent Ridge Hill S$ 1,688,888 S$ 2,179.21 psf Kent Ridge Hill Residences 64A South Buona Vista Road 2 2 775 sqft Condominium 99-year Leasehold Built: 2024 9 min (730 m) from CC26 Pasir Panjang MRT Station Listed on Jun 16, 2026 (51m ago) Contact Agent WhatsApp" [ref=e1008] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-kent-ridge-hill-residences-500166232
+                  - generic [ref=e1009]:
+                    - generic [ref=e1012]: Rare 2 bed plus study greenery facing quiet home at Kent Ridge Hill
+                    - separator [ref=e1014]
+                    - generic [ref=e1015]:
+                      - generic [ref=e1016]:
+                        - generic [ref=e1018]:
+                          - generic [ref=e1019]: S$ 1,688,888
+                          - paragraph [ref=e1020]: S$ 2,179.21 psf
+                        - generic [ref=e1021]:
+                          - generic [ref=e1022]:
+                            - heading "Kent Ridge Hill Residences" [level=3] [ref=e1024]
+                            - paragraph [ref=e1025]: 64A South Buona Vista Road
+                          - generic [ref=e1026]:
+                            - paragraph [ref=e1029]: "2"
+                            - paragraph [ref=e1032]: "2"
+                            - paragraph [ref=e1035]: 775 sqft
+                            - paragraph [ref=e1038]: Condominium
+                            - paragraph [ref=e1041]: 99-year Leasehold
+                            - paragraph [ref=e1044]: "Built: 2024"
+                      - generic [ref=e1045]:
+                        - generic [ref=e1048]: 9 min (730 m) from CC26 Pasir Panjang MRT Station
+                        - list [ref=e1049]:
+                          - generic [ref=e1052]: Listed on Jun 16, 2026 (51m ago)
+                  - generic [ref=e1053]:
+                    - generic [ref=e1054]: Contact Agent
+                    - generic [ref=e1055]:
+                      - button [ref=e1056]:
+                        - img [ref=e1058]
+                      - button [ref=e1059]:
+                        - img [ref=e1061]
+                      - button [ref=e1062]:
+                        - img [ref=e1064]
+                      - button "WhatsApp" [ref=e1065]:
+                        - generic [ref=e1066]:
+                          - img [ref=e1067]
+                          - text: WhatsApp
+              - generic [ref=e1068]:
+                - generic [ref=e1070]:
+                  - img "Richard Jany" [ref=e1073]
+                  - generic [ref=e1074]:
+                    - generic [ref=e1076]: Richard Jany
+                    - generic [ref=e1077]: JANYS REAL ESTATE PTE. LTD.
+                    - link "View Profile" [ref=e1078] [cursor=pointer]:
+                      - /url: /agent/richard-jany-10465999
+                - generic "For Sale The Draycott" [ref=e1079]:
+                  - generic [ref=e1080]:
+                    - generic [ref=e1081]:
+                      - link "Image" [ref=e1085] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-draycott-60045825
+                        - img "Image" [ref=e1086]
+                      - button "Slide 1" [ref=e1089] [cursor=pointer]
+                    - generic [ref=e1090]:
+                      - link "24" [ref=e1091] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-draycott-60045825#media-images
+                        - generic [ref=e1093]: "24"
+                      - link "5" [ref=e1095] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-draycott-60045825#media-floorPlans
+                        - generic [ref=e1097]: "5"
+                      - link "3" [ref=e1099] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-draycott-60045825#media-videos
+                        - generic [ref=e1101]: "3"
+                      - link "3" [ref=e1103] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-draycott-60045825#media-virtualTours
+                        - generic [ref=e1105]: "3"
+                    - generic [ref=e1107]:
+                      - button "Hide Property" [ref=e1108] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e1111] [cursor=pointer]
+                - 'link "Freehold 4bedroom 2637sf Draycott Walk to Orchard MRT Tanglin Club S$ 6,150,000 S$ 2,332.20 psf The Draycott 50 Draycott Park 4 5 2,637 sqft Condominium Freehold Built: 1980 13 min (1.09 km) from NS22 Orchard MRT Station Listed on Jun 16, 2026 (1h ago) Contact Agent WhatsApp" [ref=e1114] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-the-draycott-60045825
+                  - generic [ref=e1115]:
+                    - generic [ref=e1118]: Freehold 4bedroom 2637sf Draycott Walk to Orchard MRT Tanglin Club
+                    - separator [ref=e1120]
+                    - generic [ref=e1121]:
+                      - generic [ref=e1122]:
+                        - generic [ref=e1124]:
+                          - generic [ref=e1125]: S$ 6,150,000
+                          - paragraph [ref=e1126]: S$ 2,332.20 psf
+                        - generic [ref=e1127]:
+                          - generic [ref=e1128]:
+                            - heading "The Draycott" [level=3] [ref=e1130]
+                            - paragraph [ref=e1131]: 50 Draycott Park
+                          - generic [ref=e1132]:
+                            - paragraph [ref=e1135]: "4"
+                            - paragraph [ref=e1138]: "5"
+                            - paragraph [ref=e1141]: 2,637 sqft
+                            - paragraph [ref=e1144]: Condominium
+                            - paragraph [ref=e1147]: Freehold
+                            - paragraph [ref=e1150]: "Built: 1980"
+                      - generic [ref=e1151]:
+                        - generic [ref=e1154]: 13 min (1.09 km) from NS22 Orchard MRT Station
+                        - list [ref=e1155]:
+                          - generic [ref=e1158]: Listed on Jun 16, 2026 (1h ago)
+                  - generic [ref=e1159]:
+                    - generic [ref=e1160]: Contact Agent
+                    - generic [ref=e1161]:
+                      - button [ref=e1162]:
+                        - img [ref=e1164]
+                      - button [ref=e1165]:
+                        - img [ref=e1167]
+                      - button [ref=e1168]:
+                        - img [ref=e1170]
+                      - button "WhatsApp" [ref=e1171]:
+                        - generic [ref=e1172]:
+                          - img [ref=e1173]
+                          - text: WhatsApp
+              - generic [ref=e1174]:
+                - generic [ref=e1175]:
+                  - generic [ref=e1176]:
+                    - img "Hazel Chan" [ref=e1179]
+                    - generic [ref=e1180]:
+                      - generic [ref=e1182]: Hazel Chan
+                      - generic [ref=e1183]: PROPNEX REALTY PTE. LTD.
+                      - link "View Profile" [ref=e1184] [cursor=pointer]:
+                        - /url: /agent/hazel-chan-16519513
+                  - generic [ref=e1186]:
+                    - button "Hide Property" [ref=e1187] [cursor=pointer]
+                    - button "Shortlist Property" [ref=e1190] [cursor=pointer]
+                - generic "For Sale AMO Residence" [ref=e1193]:
+                  - generic [ref=e1194]:
+                    - generic [ref=e1195]:
+                      - link "Image" [ref=e1199] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-amo-residence-500165691
+                        - img "Image" [ref=e1200]
+                      - button "Slide 1" [ref=e1203] [cursor=pointer]
+                    - generic [ref=e1204]:
+                      - link "13" [ref=e1205] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-amo-residence-500165691#media-images
+                        - generic [ref=e1207]: "13"
+                      - link "1" [ref=e1209] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-amo-residence-500165691#media-floorPlans
+                        - generic [ref=e1211]: "1"
+                - 'link "S$ 1,799,999 S$ 2,422.61 psf AMO Residence 21 Ang Mo Kio Rise 2 2 743 sqft Condominium 99-year Leasehold New Project: 2026 10 min (850 m) from TE6 Mayflower MRT Station Listed on Jun 16, 2026 (1h ago) Contact Agent WhatsApp" [ref=e1213] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-amo-residence-500165691
+                  - generic [ref=e1215]:
+                    - generic [ref=e1216]:
+                      - generic [ref=e1218]:
+                        - generic [ref=e1219]: S$ 1,799,999
+                        - paragraph [ref=e1220]: S$ 2,422.61 psf
+                      - generic [ref=e1221]:
+                        - generic [ref=e1222]:
+                          - heading "AMO Residence" [level=3] [ref=e1224]
+                          - paragraph [ref=e1225]: 21 Ang Mo Kio Rise
+                        - generic [ref=e1226]:
+                          - paragraph [ref=e1229]: "2"
+                          - paragraph [ref=e1232]: "2"
+                          - paragraph [ref=e1235]: 743 sqft
+                          - paragraph [ref=e1238]: Condominium
+                          - paragraph [ref=e1241]: 99-year Leasehold
+                          - paragraph [ref=e1244]: "New Project: 2026"
+                    - generic [ref=e1245]:
+                      - generic [ref=e1248]: 10 min (850 m) from TE6 Mayflower MRT Station
+                      - list [ref=e1249]:
+                        - generic [ref=e1252]: Listed on Jun 16, 2026 (1h ago)
+                  - generic [ref=e1253]:
+                    - generic [ref=e1254]: Contact Agent
+                    - generic [ref=e1255]:
+                      - button [ref=e1256]:
+                        - img [ref=e1258]
+                      - button [ref=e1259]:
+                        - img [ref=e1261]
+                      - button [ref=e1262]:
+                        - img [ref=e1264]
+                      - button "WhatsApp" [ref=e1265]:
+                        - generic [ref=e1266]:
+                          - img [ref=e1267]
+                          - text: WhatsApp
+              - generic [ref=e1270]:
+                - button "Toggle sell with me agents" [ref=e1271] [cursor=pointer]:
+                  - generic [ref=e1272]:
+                    - generic [ref=e1273]: Looking to sell your property?
+                    - generic [ref=e1274]: Connect with sales specialists based on your search
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+              - generic [ref=e1277]:
+                - generic [ref=e1278]:
+                  - generic [ref=e1279]:
+                    - img "Chen Hong Iris" [ref=e1282]
+                    - generic [ref=e1283]:
+                      - generic [ref=e1285]: Chen Hong Iris
+                      - generic [ref=e1286]: HUTTONS ASIA PTE LTD
+                      - link "View Profile" [ref=e1287] [cursor=pointer]:
+                        - /url: /agent/chen-hong-iris-172555
+                  - generic [ref=e1289]:
+                    - button "Hide Property" [ref=e1290] [cursor=pointer]
+                    - button "Shortlist Property" [ref=e1293] [cursor=pointer]
+                - generic "For Sale Foresque Residences" [ref=e1296]:
+                  - generic [ref=e1297]:
+                    - generic [ref=e1298]:
+                      - link "Image" [ref=e1302] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-foresque-residences-500038017
+                        - img "Image" [ref=e1303]
+                      - button "Slide 1" [ref=e1306] [cursor=pointer]
+                    - generic [ref=e1307]:
+                      - link "20" [ref=e1308] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-foresque-residences-500038017#media-images
+                        - generic [ref=e1310]: "20"
+                      - link "1" [ref=e1312] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-foresque-residences-500038017#media-floorPlans
+                        - generic [ref=e1314]: "1"
+                - 'link "S$ 2,288,000 S$ 1,507.25 psf Foresque Residences 101 Petir Road 3 3 1,518 sqft Condominium 99-year Leasehold Built: 2014 Listed on Jun 16, 2026 (1h ago) Contact Agent WhatsApp" [ref=e1316] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-foresque-residences-500038017
+                  - generic [ref=e1318]:
+                    - generic [ref=e1319]:
+                      - generic [ref=e1321]:
+                        - generic [ref=e1322]: S$ 2,288,000
+                        - paragraph [ref=e1323]: S$ 1,507.25 psf
+                      - generic [ref=e1324]:
+                        - generic [ref=e1325]:
+                          - heading "Foresque Residences" [level=3] [ref=e1327]
+                          - paragraph [ref=e1328]: 101 Petir Road
+                        - generic [ref=e1329]:
+                          - paragraph [ref=e1332]: "3"
+                          - paragraph [ref=e1335]: "3"
+                          - paragraph [ref=e1338]: 1,518 sqft
+                          - paragraph [ref=e1341]: Condominium
+                          - paragraph [ref=e1344]: 99-year Leasehold
+                          - paragraph [ref=e1347]: "Built: 2014"
+                    - list [ref=e1349]:
+                      - generic [ref=e1352]: Listed on Jun 16, 2026 (1h ago)
+                  - generic [ref=e1353]:
+                    - generic [ref=e1354]: Contact Agent
+                    - generic [ref=e1355]:
+                      - button [ref=e1356]:
+                        - img [ref=e1358]
+                      - button [ref=e1359]:
+                        - img [ref=e1361]
+                      - button [ref=e1362]:
+                        - img [ref=e1364]
+                      - button "WhatsApp" [ref=e1365]:
+                        - generic [ref=e1366]:
+                          - img [ref=e1367]
+                          - text: WhatsApp
+              - generic [ref=e1368]:
+                - generic [ref=e1369]:
+                  - generic [ref=e1370]:
+                    - img "Ian Neo" [ref=e1373]
+                    - generic [ref=e1374]:
+                      - generic [ref=e1376]: Ian Neo
+                      - generic [ref=e1377]: PROPNEX REALTY PTE. LTD.
+                      - link "View Profile" [ref=e1378] [cursor=pointer]:
+                        - /url: /agent/ian-neo-10250110
+                  - generic [ref=e1380]:
+                    - button "Hide Property" [ref=e1381] [cursor=pointer]
+                    - button "Shortlist Property" [ref=e1384] [cursor=pointer]
+                - generic "For Sale Grand Dunman" [ref=e1387]:
+                  - generic [ref=e1388]:
+                    - generic [ref=e1389]:
+                      - link "Image" [ref=e1393] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-grand-dunman-500173951
+                        - img "Image" [ref=e1394]
+                      - button "Slide 1" [ref=e1397] [cursor=pointer]
+                    - generic [ref=e1398]:
+                      - link "12" [ref=e1399] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-grand-dunman-500173951#media-images
+                        - generic [ref=e1401]: "12"
+                      - link "1" [ref=e1403] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-grand-dunman-500173951#media-floorPlans
+                        - generic [ref=e1405]: "1"
+                - 'link "S$ 2,000,000 S$ 2,998.50 psf Grand Dunman 18 Dunman Road 2 1 667 sqft Condominium 99-year Leasehold New Project: 2028 2 min (170 m) from CC8 Dakota MRT Station Listed on Jun 16, 2026 (1h ago) Contact Agent WhatsApp" [ref=e1407] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-grand-dunman-500173951
+                  - generic [ref=e1409]:
+                    - generic [ref=e1410]:
+                      - generic [ref=e1412]:
+                        - generic [ref=e1413]: S$ 2,000,000
+                        - paragraph [ref=e1414]: S$ 2,998.50 psf
+                      - generic [ref=e1415]:
+                        - generic [ref=e1416]:
+                          - heading "Grand Dunman" [level=3] [ref=e1418]
+                          - paragraph [ref=e1419]: 18 Dunman Road
+                        - generic [ref=e1420]:
+                          - paragraph [ref=e1423]: "2"
+                          - paragraph [ref=e1426]: "1"
+                          - paragraph [ref=e1429]: 667 sqft
+                          - paragraph [ref=e1432]: Condominium
+                          - paragraph [ref=e1435]: 99-year Leasehold
+                          - paragraph [ref=e1438]: "New Project: 2028"
+                    - generic [ref=e1439]:
+                      - generic [ref=e1442]: 2 min (170 m) from CC8 Dakota MRT Station
+                      - list [ref=e1443]:
+                        - generic [ref=e1446]: Listed on Jun 16, 2026 (1h ago)
+                  - generic [ref=e1447]:
+                    - generic [ref=e1448]: Contact Agent
+                    - generic [ref=e1449]:
+                      - button [ref=e1450]:
+                        - img [ref=e1452]
+                      - button [ref=e1453]:
+                        - img [ref=e1455]
+                      - button [ref=e1456]:
+                        - img [ref=e1458]
+                      - button "WhatsApp" [ref=e1459]:
+                        - generic [ref=e1460]:
+                          - img [ref=e1461]
+                          - text: WhatsApp
+              - generic [ref=e1462]:
+                - generic [ref=e1464]:
+                  - img "Kenny Neo" [ref=e1467]
+                  - generic [ref=e1468]:
+                    - generic [ref=e1470]: Kenny Neo
+                    - generic [ref=e1471]: ERA REALTY NETWORK PTE LTD
+                    - link "View Profile" [ref=e1472] [cursor=pointer]:
+                      - /url: /agent/kenny-neo-197926
+                - generic "For Sale The LakeGarden Residences" [ref=e1473]:
+                  - generic [ref=e1474]:
+                    - generic [ref=e1475]:
+                      - link "Image" [ref=e1479] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-lakegarden-residences-60113191
+                        - img "Image" [ref=e1480]
+                      - button "Slide 1" [ref=e1483] [cursor=pointer]
+                    - generic [ref=e1484]:
+                      - link "9" [ref=e1485] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-lakegarden-residences-60113191#media-images
+                        - generic [ref=e1487]: "9"
+                      - link "2" [ref=e1489] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-lakegarden-residences-60113191#media-floorPlans
+                        - generic [ref=e1491]: "2"
+                    - generic [ref=e1493]:
+                      - button "Hide Property" [ref=e1494] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e1497] [cursor=pointer]
+                - 'link "4 Plus Study Bedder Lakeside Garden Penthouse Residence for Sale S$ 4,280,000 S$ 1,987.92 psf The LakeGarden Residences 80 Yuan Ching Road 4 5 2,153 sqft Condominium 99-year Leasehold New Project: 2027 13 min (1.11 km) from EW26 Lakeside MRT Station Listed on Jun 16, 2026 (1h ago) Contact Agent WhatsApp" [ref=e1500] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-the-lakegarden-residences-60113191
+                  - generic [ref=e1501]:
+                    - generic [ref=e1504]: 4 Plus Study Bedder Lakeside Garden Penthouse Residence for Sale
+                    - separator [ref=e1506]
+                    - generic [ref=e1507]:
+                      - generic [ref=e1508]:
+                        - generic [ref=e1510]:
+                          - generic [ref=e1511]: S$ 4,280,000
+                          - paragraph [ref=e1512]: S$ 1,987.92 psf
+                        - generic [ref=e1513]:
+                          - generic [ref=e1514]:
+                            - heading "The LakeGarden Residences" [level=3] [ref=e1516]
+                            - paragraph [ref=e1517]: 80 Yuan Ching Road
+                          - generic [ref=e1518]:
+                            - paragraph [ref=e1521]: "4"
+                            - paragraph [ref=e1524]: "5"
+                            - paragraph [ref=e1527]: 2,153 sqft
+                            - paragraph [ref=e1530]: Condominium
+                            - paragraph [ref=e1533]: 99-year Leasehold
+                            - paragraph [ref=e1536]: "New Project: 2027"
+                      - generic [ref=e1537]:
+                        - generic [ref=e1540]: 13 min (1.11 km) from EW26 Lakeside MRT Station
+                        - list [ref=e1541]:
+                          - generic [ref=e1544]: Listed on Jun 16, 2026 (1h ago)
+                  - generic [ref=e1545]:
+                    - generic [ref=e1546]: Contact Agent
+                    - generic [ref=e1547]:
+                      - button [ref=e1548]:
+                        - img [ref=e1550]
+                      - button [ref=e1551]:
+                        - img [ref=e1553]
+                      - button [ref=e1554]:
+                        - img [ref=e1556]
+                      - button "WhatsApp" [ref=e1557]:
+                        - generic [ref=e1558]:
+                          - img [ref=e1559]
+                          - text: WhatsApp
+              - generic [ref=e1560]:
+                - generic [ref=e1561]:
+                  - generic [ref=e1562]:
+                    - img "Charlotte Ang" [ref=e1565]
+                    - generic [ref=e1566]:
+                      - generic [ref=e1568]: Charlotte Ang
+                      - generic [ref=e1569]: PROPNEX REALTY PTE. LTD.
+                      - link "View Profile" [ref=e1570] [cursor=pointer]:
+                        - /url: /agent/charlotte-ang-10511515
+                  - generic [ref=e1572]:
+                    - button "Hide Property" [ref=e1573] [cursor=pointer]
+                    - button "Shortlist Property" [ref=e1576] [cursor=pointer]
+                - generic "For Sale The Enclave Holland" [ref=e1579]:
+                  - generic [ref=e1580]:
+                    - generic [ref=e1581]:
+                      - link "Image" [ref=e1585] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-enclave-holland-500146604
+                        - img "Image" [ref=e1586]
+                      - button "Slide 1" [ref=e1589] [cursor=pointer]
+                    - link "18" [ref=e1591] [cursor=pointer]:
+                      - /url: https://www.propertyguru.com.sg/listing/for-sale-the-enclave-holland-500146604#media-images
+                      - generic [ref=e1593]: "18"
+                - 'link "S$ 2,800,000 S$ 2,015.84 psf The Enclave Holland 131 Holland Road 4 2 1,389 sqft Condominium Freehold Built: 2020 6 min (490 m) from CC21 Holland Village MRT Station Listed on Jun 16, 2026 (1h ago) Contact Agent WhatsApp" [ref=e1595] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-the-enclave-holland-500146604
+                  - generic [ref=e1597]:
+                    - generic [ref=e1598]:
+                      - generic [ref=e1600]:
+                        - generic [ref=e1601]: S$ 2,800,000
+                        - paragraph [ref=e1602]: S$ 2,015.84 psf
+                      - generic [ref=e1603]:
+                        - generic [ref=e1604]:
+                          - heading "The Enclave Holland" [level=3] [ref=e1606]
+                          - paragraph [ref=e1607]: 131 Holland Road
+                        - generic [ref=e1608]:
+                          - paragraph [ref=e1611]: "4"
+                          - paragraph [ref=e1614]: "2"
+                          - paragraph [ref=e1617]: 1,389 sqft
+                          - paragraph [ref=e1620]: Condominium
+                          - paragraph [ref=e1623]: Freehold
+                          - paragraph [ref=e1626]: "Built: 2020"
+                    - generic [ref=e1627]:
+                      - generic [ref=e1630]: 6 min (490 m) from CC21 Holland Village MRT Station
+                      - list [ref=e1631]:
+                        - generic [ref=e1634]: Listed on Jun 16, 2026 (1h ago)
+                  - generic [ref=e1635]:
+                    - generic [ref=e1636]: Contact Agent
+                    - generic [ref=e1637]:
+                      - button [ref=e1638]:
+                        - img [ref=e1640]
+                      - button [ref=e1641]:
+                        - img [ref=e1643]
+                      - button [ref=e1644]:
+                        - img [ref=e1646]
+                      - button "WhatsApp" [ref=e1647]:
+                        - generic [ref=e1648]:
+                          - img [ref=e1649]
+                          - text: WhatsApp
+              - generic [ref=e1650]:
+                - generic [ref=e1652]:
+                  - img "Felicia Tan Yi Jie" [ref=e1655]
+                  - generic [ref=e1656]:
+                    - generic [ref=e1658]: Felicia Tan Yi Jie
+                    - generic [ref=e1659]: HUTTONS ASIA PTE LTD
+                    - link "View Profile" [ref=e1660] [cursor=pointer]:
+                      - /url: /agent/felicia-tan-yi-jie-225259
+                - generic "For Sale The Ritz-Carlton Residences" [ref=e1661]:
+                  - generic [ref=e1662]:
+                    - generic [ref=e1663]:
+                      - link "Image" [ref=e1667] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-ritz-carlton-residences-60167469
+                        - img "Image" [ref=e1668]
+                      - button "Slide 1" [ref=e1671] [cursor=pointer]
+                    - generic [ref=e1672]:
+                      - link "31" [ref=e1673] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-ritz-carlton-residences-60167469#media-images
+                        - generic [ref=e1675]: "31"
+                      - link "1" [ref=e1677] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-ritz-carlton-residences-60167469#media-videos
+                        - generic [ref=e1679]: "1"
+                    - generic [ref=e1681]:
+                      - button "Hide Property" [ref=e1682] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e1685] [cursor=pointer]
+                - 'link "Rare single floor plate, unblocked view, serious resale seller!! S$ 32,800,000 S$ 5,364.74 psf The Ritz-Carlton Residences 65 Cairnhill Road 7 9 6,114 sqft Condominium Freehold Built: 2013 7 min (590 m) from NS21 Newton MRT Station Listed on Jun 16, 2026 (1h ago) Contact Agent WhatsApp" [ref=e1688] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-the-ritz-carlton-residences-60167469
+                  - generic [ref=e1689]:
+                    - generic [ref=e1692]: Rare single floor plate, unblocked view, serious resale seller!!
+                    - separator [ref=e1694]
+                    - generic [ref=e1695]:
+                      - generic [ref=e1696]:
+                        - generic [ref=e1698]:
+                          - generic [ref=e1699]: S$ 32,800,000
+                          - paragraph [ref=e1700]: S$ 5,364.74 psf
+                        - generic [ref=e1701]:
+                          - generic [ref=e1702]:
+                            - heading "The Ritz-Carlton Residences" [level=3] [ref=e1704]
+                            - paragraph [ref=e1705]: 65 Cairnhill Road
+                          - generic [ref=e1706]:
+                            - paragraph [ref=e1709]: "7"
+                            - paragraph [ref=e1712]: "9"
+                            - paragraph [ref=e1715]: 6,114 sqft
+                            - paragraph [ref=e1718]: Condominium
+                            - paragraph [ref=e1721]: Freehold
+                            - paragraph [ref=e1724]: "Built: 2013"
+                      - generic [ref=e1725]:
+                        - generic [ref=e1728]: 7 min (590 m) from NS21 Newton MRT Station
+                        - list [ref=e1729]:
+                          - generic [ref=e1732]: Listed on Jun 16, 2026 (1h ago)
+                  - generic [ref=e1733]:
+                    - generic [ref=e1734]: Contact Agent
+                    - generic [ref=e1735]:
+                      - button [ref=e1736]:
+                        - img [ref=e1738]
+                      - button [ref=e1739]:
+                        - img [ref=e1741]
+                      - button [ref=e1742]:
+                        - img [ref=e1744]
+                      - button "WhatsApp" [ref=e1745]:
+                        - generic [ref=e1746]:
+                          - img [ref=e1747]
+                          - text: WhatsApp
+              - generic [ref=e1750]:
+                - button "Toggle sell with me agents" [ref=e1751] [cursor=pointer]:
+                  - generic [ref=e1752]:
+                    - generic [ref=e1753]: Looking to sell your property?
+                    - generic [ref=e1754]: Connect with sales specialists based on your search
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+              - generic [ref=e1757]:
+                - generic [ref=e1759]:
+                  - img "Steve Ho" [ref=e1762]
+                  - generic [ref=e1763]:
+                    - generic [ref=e1765]: Steve Ho
+                    - generic [ref=e1766]: HUTTONS ASIA PTE LTD
+                    - link "View Profile" [ref=e1767] [cursor=pointer]:
+                      - /url: /agent/steve-ho-15720673
+                - generic "For Sale Sengkang Grand Residences" [ref=e1768]:
+                  - generic [ref=e1769]:
+                    - generic [ref=e1770]:
+                      - link "Image" [ref=e1774] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-sengkang-grand-residences-60117955
+                        - img "Image" [ref=e1775]
+                      - button "Slide 1" [ref=e1778] [cursor=pointer]
+                    - generic [ref=e1779]:
+                      - link "6" [ref=e1780] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-sengkang-grand-residences-60117955#media-images
+                        - generic [ref=e1782]: "6"
+                      - link "1" [ref=e1784] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-sengkang-grand-residences-60117955#media-floorPlans
+                        - generic [ref=e1786]: "1"
+                    - generic [ref=e1788]:
+                      - button "Hide Property" [ref=e1789] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e1792] [cursor=pointer]
+                - 'link "Multiple units on hand, please enquire on preferred facing and block S$ 978,888 S$ 2,065.16 psf Sengkang Grand Residences 82 Compassvale Bow 1 1 474 sqft Condominium 99-year Leasehold Built: 2023 1 min (10 m) from NE15 Buangkok MRT Station Listed on Jun 16, 2026 (1h ago) Contact Agent WhatsApp" [ref=e1795] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-sengkang-grand-residences-60117955
+                  - generic [ref=e1796]:
+                    - generic [ref=e1799]: Multiple units on hand, please enquire on preferred facing and block
+                    - separator [ref=e1801]
+                    - generic [ref=e1802]:
+                      - generic [ref=e1803]:
+                        - generic [ref=e1805]:
+                          - generic [ref=e1806]: S$ 978,888
+                          - paragraph [ref=e1807]: S$ 2,065.16 psf
+                        - generic [ref=e1808]:
+                          - generic [ref=e1809]:
+                            - heading "Sengkang Grand Residences" [level=3] [ref=e1811]
+                            - paragraph [ref=e1812]: 82 Compassvale Bow
+                          - generic [ref=e1813]:
+                            - paragraph [ref=e1816]: "1"
+                            - paragraph [ref=e1819]: "1"
+                            - paragraph [ref=e1822]: 474 sqft
+                            - paragraph [ref=e1825]: Condominium
+                            - paragraph [ref=e1828]: 99-year Leasehold
+                            - paragraph [ref=e1831]: "Built: 2023"
+                      - generic [ref=e1832]:
+                        - generic [ref=e1835]: 1 min (10 m) from NE15 Buangkok MRT Station
+                        - list [ref=e1836]:
+                          - generic [ref=e1839]: Listed on Jun 16, 2026 (1h ago)
+                  - generic [ref=e1840]:
+                    - generic [ref=e1841]: Contact Agent
+                    - generic [ref=e1842]:
+                      - button [ref=e1843]:
+                        - img [ref=e1845]
+                      - button [ref=e1846]:
+                        - img [ref=e1848]
+                      - button [ref=e1849]:
+                        - img [ref=e1851]
+                      - button "WhatsApp" [ref=e1852]:
+                        - generic [ref=e1853]:
+                          - img [ref=e1854]
+                          - text: WhatsApp
+              - generic [ref=e1855]:
+                - generic [ref=e1857]:
+                  - img "Orry Goh" [ref=e1860]
+                  - generic [ref=e1861]:
+                    - generic [ref=e1863]: Orry Goh
+                    - generic [ref=e1864]: ERA REALTY NETWORK PTE LTD
+                    - link "View Profile" [ref=e1865] [cursor=pointer]:
+                      - /url: /agent/orry-goh-14050958
+                - generic "For Sale Melville Park" [ref=e1866]:
+                  - generic [ref=e1867]:
+                    - generic [ref=e1868]:
+                      - link "Image" [ref=e1872] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-melville-park-500158867
+                        - img "Image" [ref=e1873]
+                      - button "Slide 1" [ref=e1876] [cursor=pointer]
+                    - generic [ref=e1877]:
+                      - link "11" [ref=e1878] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-melville-park-500158867#media-images
+                        - generic [ref=e1880]: "11"
+                      - link "1" [ref=e1882] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-melville-park-500158867#media-floorPlans
+                        - generic [ref=e1884]: "1"
+                      - link "1" [ref=e1886] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-melville-park-500158867#media-videos
+                        - generic [ref=e1888]: "1"
+                      - link "1" [ref=e1890] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-melville-park-500158867#media-virtualTours
+                        - generic [ref=e1892]: "1"
+                    - generic [ref=e1894]:
+                      - button "Hide Property" [ref=e1895] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e1898] [cursor=pointer]
+                - 'link "Possible 4 bdr. Bright and windy. No fixtures. No west sun, best stack S$ 1,412,000 S$ 1,009.29 psf Melville Park 28 Simei Street 1 3 3 1,399 sqft Condominium 99-year Leasehold Built: 1996 12 min (1.04 km) from DT34 Upper Changi MRT Station Listed on Jun 16, 2026 (2h ago) Contact Agent WhatsApp" [ref=e1901] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-melville-park-500158867
+                  - generic [ref=e1902]:
+                    - generic [ref=e1905]: Possible 4 bdr. Bright and windy. No fixtures. No west sun, best stack
+                    - separator [ref=e1907]
+                    - generic [ref=e1908]:
+                      - generic [ref=e1909]:
+                        - generic [ref=e1911]:
+                          - generic [ref=e1912]: S$ 1,412,000
+                          - paragraph [ref=e1913]: S$ 1,009.29 psf
+                        - generic [ref=e1914]:
+                          - generic [ref=e1915]:
+                            - heading "Melville Park" [level=3] [ref=e1917]
+                            - paragraph [ref=e1918]: 28 Simei Street 1
+                          - generic [ref=e1919]:
+                            - paragraph [ref=e1922]: "3"
+                            - paragraph [ref=e1925]: "3"
+                            - paragraph [ref=e1928]: 1,399 sqft
+                            - paragraph [ref=e1931]: Condominium
+                            - paragraph [ref=e1934]: 99-year Leasehold
+                            - paragraph [ref=e1937]: "Built: 1996"
+                      - generic [ref=e1938]:
+                        - generic [ref=e1941]: 12 min (1.04 km) from DT34 Upper Changi MRT Station
+                        - list [ref=e1942]:
+                          - generic [ref=e1945]: Listed on Jun 16, 2026 (2h ago)
+                  - generic [ref=e1946]:
+                    - generic [ref=e1947]: Contact Agent
+                    - generic [ref=e1948]:
+                      - button [ref=e1949]:
+                        - img [ref=e1951]
+                      - button [ref=e1952]:
+                        - img [ref=e1954]
+                      - button [ref=e1955]:
+                        - img [ref=e1957]
+                      - button "WhatsApp" [ref=e1958]:
+                        - generic [ref=e1959]:
+                          - img [ref=e1960]
+                          - text: WhatsApp
+              - generic [ref=e1961]:
+                - generic [ref=e1963]:
+                  - img "Sam Chin" [ref=e1966]
+                  - generic [ref=e1967]:
+                    - generic [ref=e1969]: Sam Chin
+                    - generic [ref=e1970]: PROPNEX REALTY PTE. LTD.
+                    - link "View Profile" [ref=e1971] [cursor=pointer]:
+                      - /url: /agent/sam-chin-10610047
+                - generic "For Sale High Park Residences" [ref=e1972]:
+                  - generic [ref=e1973]:
+                    - generic [ref=e1974]:
+                      - link "Image" [ref=e1978] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-high-park-residences-500122653
+                        - img "Image" [ref=e1979]
+                      - button "Slide 1" [ref=e1982] [cursor=pointer]
+                    - generic [ref=e1983]:
+                      - link "20" [ref=e1984] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-high-park-residences-500122653#media-images
+                        - generic [ref=e1986]: "20"
+                      - link "1" [ref=e1988] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-high-park-residences-500122653#media-floorPlans
+                        - generic [ref=e1990]: "1"
+                      - link "1" [ref=e1992] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-high-park-residences-500122653#media-virtualTours
+                        - generic [ref=e1994]: "1"
+                    - generic [ref=e1996]:
+                      - button "Hide Property" [ref=e1997] [cursor=pointer]
+                      - button "Shortlist Property" [ref=e2000] [cursor=pointer]
+                - 'link "Pool facing high floor unit for sale S$ 800,000 S$ 1,769.91 psf High Park Residences 31 Fernvale Road 1 1 452 sqft Condominium 99-year Leasehold Built: 2019 5 min (450 m) from SW4 Thanggam LRT Station Listed on Jun 16, 2026 (2h ago) Contact Agent WhatsApp" [ref=e2003] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-high-park-residences-500122653
+                  - generic [ref=e2004]:
+                    - generic [ref=e2007]: Pool facing high floor unit for sale
+                    - separator [ref=e2009]
+                    - generic [ref=e2010]:
+                      - generic [ref=e2011]:
+                        - generic [ref=e2013]:
+                          - generic [ref=e2014]: S$ 800,000
+                          - paragraph [ref=e2015]: S$ 1,769.91 psf
+                        - generic [ref=e2016]:
+                          - generic [ref=e2017]:
+                            - heading "High Park Residences" [level=3] [ref=e2019]
+                            - paragraph [ref=e2020]: 31 Fernvale Road
+                          - generic [ref=e2021]:
+                            - paragraph [ref=e2024]: "1"
+                            - paragraph [ref=e2027]: "1"
+                            - paragraph [ref=e2030]: 452 sqft
+                            - paragraph [ref=e2033]: Condominium
+                            - paragraph [ref=e2036]: 99-year Leasehold
+                            - paragraph [ref=e2039]: "Built: 2019"
+                      - generic [ref=e2040]:
+                        - generic [ref=e2043]: 5 min (450 m) from SW4 Thanggam LRT Station
+                        - list [ref=e2044]:
+                          - generic [ref=e2047]: Listed on Jun 16, 2026 (2h ago)
+                  - generic [ref=e2048]:
+                    - generic [ref=e2049]: Contact Agent
+                    - generic [ref=e2050]:
+                      - button [ref=e2051]:
+                        - img [ref=e2053]
+                      - button [ref=e2054]:
+                        - img [ref=e2056]
+                      - button [ref=e2057]:
+                        - img [ref=e2059]
+                      - button "WhatsApp" [ref=e2060]:
+                        - generic [ref=e2061]:
+                          - img [ref=e2062]
+                          - text: WhatsApp
+              - generic [ref=e2063]:
+                - generic [ref=e2064]:
+                  - generic [ref=e2065]:
+                    - img "Gary ." [ref=e2068]
+                    - generic [ref=e2069]:
+                      - generic [ref=e2071]: Gary .
+                      - generic [ref=e2072]: PROPNEX REALTY PTE. LTD.
+                      - link "View Profile" [ref=e2073] [cursor=pointer]:
+                        - /url: /agent/gary--462581
+                  - generic [ref=e2075]:
+                    - button "Hide Property" [ref=e2076] [cursor=pointer]
+                    - button "Shortlist Property" [ref=e2079] [cursor=pointer]
+                - generic "For Sale The Botany at Dairy Farm" [ref=e2082]:
+                  - generic [ref=e2083]:
+                    - generic [ref=e2084]:
+                      - link "Image" [ref=e2088] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-botany-at-dairy-farm-500077252
+                        - img "Image" [ref=e2089]
+                      - button "Slide 1" [ref=e2092] [cursor=pointer]
+                    - generic [ref=e2093]:
+                      - link "16" [ref=e2094] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-botany-at-dairy-farm-500077252#media-images
+                        - generic [ref=e2096]: "16"
+                      - link "1" [ref=e2098] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-botany-at-dairy-farm-500077252#media-floorPlans
+                        - generic [ref=e2100]: "1"
+                      - link "1" [ref=e2102] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-the-botany-at-dairy-farm-500077252#media-videos
+                        - generic [ref=e2104]: "1"
+                - 'link "S$ 1,198,000 S$ 2,367.59 psf The Botany at Dairy Farm 5 Dairy Farm Walk 1 1 506 sqft Condominium 99-year Leasehold New Project: 2027 11 min (900 m) from DT3 Hillview MRT Station Listed on Jun 16, 2026 (2h ago) Contact Agent WhatsApp" [ref=e2106] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-the-botany-at-dairy-farm-500077252
+                  - generic [ref=e2108]:
+                    - generic [ref=e2109]:
+                      - generic [ref=e2111]:
+                        - generic [ref=e2112]: S$ 1,198,000
+                        - paragraph [ref=e2113]: S$ 2,367.59 psf
+                      - generic [ref=e2114]:
+                        - generic [ref=e2115]:
+                          - heading "The Botany at Dairy Farm" [level=3] [ref=e2117]
+                          - paragraph [ref=e2118]: 5 Dairy Farm Walk
+                        - generic [ref=e2119]:
+                          - paragraph [ref=e2122]: "1"
+                          - paragraph [ref=e2125]: "1"
+                          - paragraph [ref=e2128]: 506 sqft
+                          - paragraph [ref=e2131]: Condominium
+                          - paragraph [ref=e2134]: 99-year Leasehold
+                          - paragraph [ref=e2137]: "New Project: 2027"
+                    - generic [ref=e2138]:
+                      - generic [ref=e2141]: 11 min (900 m) from DT3 Hillview MRT Station
+                      - list [ref=e2142]:
+                        - generic [ref=e2145]: Listed on Jun 16, 2026 (2h ago)
+                  - generic [ref=e2146]:
+                    - generic [ref=e2147]: Contact Agent
+                    - generic [ref=e2148]:
+                      - button [ref=e2149]:
+                        - img [ref=e2151]
+                      - button [ref=e2152]:
+                        - img [ref=e2154]
+                      - button [ref=e2155]:
+                        - img [ref=e2157]
+                      - button "WhatsApp" [ref=e2158]:
+                        - generic [ref=e2159]:
+                          - img [ref=e2160]
+                          - text: WhatsApp
+              - generic [ref=e2161]:
+                - generic [ref=e2162]:
+                  - generic [ref=e2163]:
+                    - img "Gary ." [ref=e2166]
+                    - generic [ref=e2167]:
+                      - generic [ref=e2169]: Gary .
+                      - generic [ref=e2170]: PROPNEX REALTY PTE. LTD.
+                      - link "View Profile" [ref=e2171] [cursor=pointer]:
+                        - /url: /agent/gary--462581
+                  - generic [ref=e2173]:
+                    - button "Hide Property" [ref=e2174] [cursor=pointer]
+                    - button "Shortlist Property" [ref=e2177] [cursor=pointer]
+                - generic "For Sale Wilshire Residences" [ref=e2180]:
+                  - generic [ref=e2181]:
+                    - generic [ref=e2182]:
+                      - link "Image" [ref=e2186] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-wilshire-residences-24940388
+                        - img "Image" [ref=e2187]
+                      - button "Slide 1" [ref=e2190] [cursor=pointer]
+                    - generic [ref=e2191]:
+                      - link "14" [ref=e2192] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-wilshire-residences-24940388#media-images
+                        - generic [ref=e2194]: "14"
+                      - link "1" [ref=e2196] [cursor=pointer]:
+                        - /url: https://www.propertyguru.com.sg/listing/for-sale-wilshire-residences-24940388#media-floorPlans
+                        - generic [ref=e2198]: "1"
+                - 'link "S$ 2,000,000 S$ 2,691.79 psf Wilshire Residences 30 Farrer Road 2 2 743 sqft Condominium Freehold Built: 2023 9 min (760 m) from CC20 Farrer Road MRT Station Listed on Jun 16, 2026 (2h ago) Contact Agent WhatsApp" [ref=e2200] [cursor=pointer]':
+                  - /url: https://www.propertyguru.com.sg/listing/for-sale-wilshire-residences-24940388
+                  - generic [ref=e2202]:
+                    - generic [ref=e2203]:
+                      - generic [ref=e2205]:
+                        - generic [ref=e2206]: S$ 2,000,000
+                        - paragraph [ref=e2207]: S$ 2,691.79 psf
+                      - generic [ref=e2208]:
+                        - generic [ref=e2209]:
+                          - heading "Wilshire Residences" [level=3] [ref=e2211]
+                          - paragraph [ref=e2212]: 30 Farrer Road
+                        - generic [ref=e2213]:
+                          - paragraph [ref=e2216]: "2"
+                          - paragraph [ref=e2219]: "2"
+                          - paragraph [ref=e2222]: 743 sqft
+                          - paragraph [ref=e2225]: Condominium
+                          - paragraph [ref=e2228]: Freehold
+                          - paragraph [ref=e2231]: "Built: 2023"
+                    - generic [ref=e2232]:
+                      - generic [ref=e2235]: 9 min (760 m) from CC20 Farrer Road MRT Station
+                      - list [ref=e2236]:
+                        - generic [ref=e2239]: Listed on Jun 16, 2026 (2h ago)
+                  - generic [ref=e2240]:
+                    - generic [ref=e2241]: Contact Agent
+                    - generic [ref=e2242]:
+                      - button [ref=e2243]:
+                        - img [ref=e2245]
+                      - button [ref=e2246]:
+                        - img [ref=e2248]
+                      - button [ref=e2249]:
+                        - img [ref=e2251]
+                      - button "WhatsApp" [ref=e2252]:
+                        - generic [ref=e2253]:
+                          - img [ref=e2254]
+                          - text: WhatsApp
+              - generic [ref=e2257]:
+                - button "Toggle sell with me agents" [ref=e2258] [cursor=pointer]:
+                  - generic [ref=e2259]:
+                    - generic [ref=e2260]: Looking to sell your property?
+                    - generic [ref=e2261]: Connect with sales specialists based on your search
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+                    - generic:
+                      - generic:
+                        - generic:
+                          - separator
+            - list [ref=e2265]:
+              - listitem [ref=e2266]:
+                - generic:
+                  - generic: First
+              - listitem [ref=e2267]:
+                - generic:
+                  - generic: Previous
+              - listitem [ref=e2268]:
+                - generic "Page 1" [ref=e2269] [cursor=pointer]:
+                  - text: "1"
+                  - generic [ref=e2270]: (current)
+              - listitem [ref=e2271]:
+                - link "2" [ref=e2272] [cursor=pointer]:
+                  - /url: https://www.propertyguru.com.sg/property-for-sale
+              - listitem [ref=e2273]:
+                - link "3" [ref=e2274] [cursor=pointer]:
+                  - /url: https://www.propertyguru.com.sg/property-for-sale
+              - listitem [ref=e2275]:
+                - link "4" [ref=e2276] [cursor=pointer]:
+                  - /url: https://www.propertyguru.com.sg/property-for-sale
+              - listitem [ref=e2277]:
+                - generic [ref=e2279] [cursor=pointer]: ...
+              - listitem [ref=e2280]:
+                - link "2819" [ref=e2281] [cursor=pointer]:
+                  - /url: https://www.propertyguru.com.sg/property-for-sale
+              - listitem [ref=e2282]:
+                - link "Next" [ref=e2283] [cursor=pointer]:
+                  - /url: https://www.propertyguru.com.sg/property-for-sale
+                  - generic [ref=e2286]: Next
+              - listitem [ref=e2287]:
+                - link "Last" [ref=e2288] [cursor=pointer]:
+                  - /url: https://www.propertyguru.com.sg/property-for-sale
+                  - generic [ref=e2291]: Last
+          - generic [ref=e2292]:
+            - generic [ref=e2293]:
+              - heading "Explore PropertyGuru" [level=4] [ref=e2294]
+              - generic [ref=e2295]:
+                - generic [ref=e2296]:
+                  - text: There are 1,679 properties for sale in DT11 Newton MRT Station, NS21 Newton MRT Station. You can use our elegant Property Search Tool to find the right
+                  - link "HDB Flat" [ref=e2297] [cursor=pointer]:
+                    - /url: /hdb-for-sale
+                  - text: ","
+                  - link "Condominium" [ref=e2298] [cursor=pointer]:
+                    - /url: /condo-for-sale
+                  - text: ","
+                  - link "Apartment" [ref=e2299] [cursor=pointer]:
+                    - /url: /apartment-for-sale
+                  - text: ","
+                  - link "Executive Condominium" [ref=e2300] [cursor=pointer]:
+                    - /url: /executive-condo-for-sale
+                  - text: ","
+                  - link "Terraced House" [ref=e2301] [cursor=pointer]:
+                    - /url: /terraced-house-for-sale
+                  - text: ","
+                  - link "Detached House" [ref=e2302] [cursor=pointer]:
+                    - /url: /detached-house-for-sale
+                  - text: ","
+                  - link "Semi-Detached House" [ref=e2303] [cursor=pointer]:
+                    - /url: /semi-d-for-sale
+                  - text: and
+                  - link "Bungalow House" [ref=e2304] [cursor=pointer]:
+                    - /url: /bungalow-for-sale
+                  - text: that is currently for sale. The options in our database are limitless. Our Property Evaluation Tool makes the market transparent for you, so that you can make a confident decision to buy your Property in Singapore. Start your Property Search above, or refine your search using these most popular searches on Property for sale.
+                - text: Show More
+              - generic [ref=e2305]:
+                - generic [ref=e2306]: Properties by bedroom
+                - generic [ref=e2307]:
+                  - link "Studio" [ref=e2308] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/with-studio
+                  - link "1 Bedroom" [ref=e2310] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/with-1-bedroom
+                - text: Show More
+              - generic [ref=e2311]:
+                - generic [ref=e2312]: Properties by ownership
+                - generic [ref=e2313]:
+                  - link "Freehold" [ref=e2314] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/freehold
+                  - link "999-year Leasehold" [ref=e2316] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/999-year-leasehold
+              - generic [ref=e2317]:
+                - generic [ref=e2318]: Properties by floor level
+                - generic [ref=e2319]:
+                  - link "High Floor" [ref=e2320] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/high-floor
+                  - link "Mid Floor" [ref=e2322] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/mid-floor
+                - text: Show More
+              - generic [ref=e2323]:
+                - generic [ref=e2324]: Properties by prices
+                - generic [ref=e2325]:
+                  - link "Under S$ 400 K" [ref=e2326] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/priced-under-400k-sgd
+                  - link "Under S$ 500 K" [ref=e2328] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/priced-under-500k-sgd
+                - text: Show More
+              - generic [ref=e2329]:
+                - generic [ref=e2330]: Popular locations
+                - generic [ref=e2331]:
+                  - link "Seletar / Yio Chu Kang" [ref=e2332] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/in-seletar-yio-chu-kang-d28
+                  - link "Sembawang / Yishun" [ref=e2334] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/in-sembawang-yishun-d27
+                - text: Show More
+              - generic [ref=e2335]:
+                - generic [ref=e2336]: Near transportation
+                - generic [ref=e2337]:
+                  - link "Serangoon MRT Station" [ref=e2338] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/near-ne12-serangoon-mrt-station-179
+                  - link "Punggol MRT Station" [ref=e2340] [cursor=pointer]:
+                    - /url: https://www.propertyguru.com.sg/property-for-sale/near-ne17-punggol-mrt-station-194
+                - text: Show More
+            - generic [ref=e2342]:
+              - heading "Frequently Asked Questions" [level=5] [ref=e2343]
+              - generic [ref=e2344]:
+                - generic [ref=e2345]:
+                  - heading "How many properties are available for sale?" [level=5] [ref=e2346]:
+                    - button "How many properties are available for sale?" [expanded] [ref=e2347] [cursor=pointer]:
+                      - generic [ref=e2348]: How many properties are available for sale?
+                  - generic [ref=e2350]: You can find 56,370 properties for sale here on PropertyGuru Singapore.
+                - heading "How do I search for cheap properties in Singapore?" [level=5] [ref=e2352]:
+                  - button "How do I search for cheap properties in Singapore?" [ref=e2353] [cursor=pointer]:
+                    - generic [ref=e2354]: How do I search for cheap properties in Singapore?
+                - heading "Can I use my CPF to purchase an apartment?" [level=5] [ref=e2356]:
+                  - button "Can I use my CPF to purchase an apartment?" [ref=e2357] [cursor=pointer]:
+                    - generic [ref=e2358]: Can I use my CPF to purchase an apartment?
+    - generic [ref=e2368]:
+      - paragraph [ref=e2369]:
+        - generic [ref=e2370]:
+          - text: We've updated our privacy policy to reflect our commitment to ensuring the security of your data. Please check out our updated
+          - link "Privacy Policy" [ref=e2371] [cursor=pointer]:
+            - /url: /customer-service/privacy
+          - text: for more details. By continuing browsing this website, you are giving consent towards the same.
+      - generic [ref=e2373] [cursor=pointer]: Accept
+    - contentinfo [ref=e2374]:
+      - generic [ref=e2375]:
+        - generic [ref=e2376]:
+          - generic [ref=e2379] [cursor=pointer]: Try our mobile apps
+          - link " Android" [ref=e2381] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.allproperty.android.consumer.sg
+            - generic [ref=e2382]: 
+            - generic [ref=e2383]: Android
+          - link " IOS" [ref=e2385] [cursor=pointer]:
+            - /url: https://apps.apple.com/sg/app/propertyguru-singapore/id482524585
+            - generic [ref=e2386]: 
+            - generic [ref=e2387]: IOS
+        - generic [ref=e2388]:
+          - generic [ref=e2391] [cursor=pointer]: Follow us
+          - link "" [ref=e2393] [cursor=pointer]:
+            - /url: https://www.facebook.com/Propertyguru.sg
+            - generic [ref=e2394]: 
+          - link "" [ref=e2396] [cursor=pointer]:
+            - /url: https://www.instagram.com/propertyguru
+            - generic [ref=e2397]: 
+          - link "" [ref=e2399] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/propertygurugroup
+            - generic [ref=e2400]: 
+          - link "" [ref=e2402] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/propertyguru
+            - generic [ref=e2403]: 
+          - link [ref=e2405] [cursor=pointer]:
+            - /url: https://twitter.com/sgpropertyguru
+          - link [ref=e2408] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@propertyguru
+      - generic [ref=e2411]:
+        - generic [ref=e2412]:
+          - generic [ref=e2414]:
+            - heading "PropertyGuru Group" [level=5] [ref=e2415]:
+              - link "PropertyGuru Group" [ref=e2416] [cursor=pointer]:
+                - /url: https://www.propertygurugroup.com/
+                - text: PropertyGuru Group 
+            - generic [ref=e2417]:
+              - link "About Us" [ref=e2420] [cursor=pointer]:
+                - /url: https://www.propertygurugroup.com
+              - link "Our Products" [ref=e2423] [cursor=pointer]:
+                - /url: https://www.propertygurugroup.com/products/
+              - link "Careers" [ref=e2426] [cursor=pointer]:
+                - /url: https://www.propertygurugroup.com/joinus
+          - generic [ref=e2428]:
+            - heading "Contact Us" [level=5] [ref=e2429]:
+              - link "Contact Us" [ref=e2430] [cursor=pointer]:
+                - /url: https://www.propertygurugroup.com/contact-us
+                - text: Contact Us 
+            - generic [ref=e2431]:
+              - link "Newsroom" [ref=e2434] [cursor=pointer]:
+                - /url: https://www.propertygurugroup.com/newsroom/
+              - link "Share Feedback" [ref=e2437] [cursor=pointer]:
+                - /url: /feedback
+        - generic [ref=e2438]:
+          - generic [ref=e2439]:
+            - generic [ref=e2440]: Change Country
+            - button "Singapore " [ref=e2443] [cursor=pointer]:
+              - generic [ref=e2444]:
+                - img [ref=e2445]
+                - generic [ref=e2446]: Singapore
+              - generic [ref=e2447]: 
+          - generic [ref=e2450]:
+            - textbox "PropertyGuru Search" [ref=e2451]
+            - generic [ref=e2453] [cursor=pointer]: 
+      - generic [ref=e2456]:
+        - link "CommercialGuru Logo" [ref=e2458] [cursor=pointer]:
+          - /url: https://www.commercialguru.com.sg
+          - img "CommercialGuru Logo" [ref=e2459]
+        - link "Award Logo" [ref=e2461] [cursor=pointer]:
+          - /url: https://www.asiapropertyawards.com/en
+          - img "Award Logo" [ref=e2462]
+        - link "Asia Real Estate Summit Logo" [ref=e2464] [cursor=pointer]:
+          - /url: https://www.asiarealestatesummit.com
+          - img "Asia Real Estate Summit Logo" [ref=e2465]
+        - link "Asia Property Reports Logo" [ref=e2467] [cursor=pointer]:
+          - /url: https://www.asiapropertyawards.com/en/newsroom
+          - img "Asia Property Reports Logo" [ref=e2468]
+        - link "iProperty Logo" [ref=e2470] [cursor=pointer]:
+          - /url: https://www.iproperty.com.my
+          - img "iProperty Logo" [ref=e2471]
+      - generic [ref=e2473]:
+        - paragraph [ref=e2474]:
+          - link "PropertyGuru.com.sg" [ref=e2475] [cursor=pointer]:
+            - /url: /
+          - text: is the leading Singapore Property website - the best place to start your real estate search whether you are an investor, buying for own use, or looking for a place to rent. In PropertyGuru, you can find thousands of properties for sale and rent with detailed information about each property, including maps and photos. We bring you the most comprehensive selection in the market - the most popular
+          - link "condominiums" [ref=e2476] [cursor=pointer]:
+            - /url: /condo-directory
+          - text: ","
+          - link "apartments" [ref=e2477] [cursor=pointer]:
+            - /url: /apartment-condo-for-rent
+          - text: ","
+          - link "HDB flats" [ref=e2478] [cursor=pointer]:
+            - /url: /singapore-property-listing/hdb
+          - text: ","
+          - link "Executive Condominiums" [ref=e2479] [cursor=pointer]:
+            - /url: /search/executive-condominiums/property-listings
+          - text: ","
+          - link "houses" [ref=e2480] [cursor=pointer]:
+            - /url: /landed-house-for-sale
+          - text: and
+          - link "commercial properties" [ref=e2481] [cursor=pointer]:
+            - /url: https://www.commercialguru.com.sg/
+          - text: .
+        - generic [ref=e2482] [cursor=pointer]: Read more
+      - generic [ref=e2484]:
+        - generic [ref=e2486]:
+          - heading "PropertyGuru" [level=5] [ref=e2487]:
+            - link "PropertyGuru" [ref=e2488] [cursor=pointer]:
+              - /url: /
+              - text: PropertyGuru 
+          - generic [ref=e2489]:
+            - link "AskGuru" [ref=e2492] [cursor=pointer]:
+              - /url: /property-investment-questions
+            - link "Property Guides" [ref=e2495] [cursor=pointer]:
+              - /url: /property-guides
+            - link "HDB Directory" [ref=e2498] [cursor=pointer]:
+              - /url: /singapore-property-listing/hdb
+            - generic [ref=e2500] [cursor=pointer]: View More
+        - generic [ref=e2503]:
+          - heading "Mortgages" [level=5] [ref=e2504]:
+            - link "Mortgages" [ref=e2505] [cursor=pointer]:
+              - /url: /mortgage/pre-qualification
+              - text: Mortgages 
+          - generic [ref=e2506]:
+            - link "Private Property Home Loans" [ref=e2509] [cursor=pointer]:
+              - /url: /mortgage/home-loan/private-property-loan
+            - link "HDB Home Loans" [ref=e2512] [cursor=pointer]:
+              - /url: /mortgage/home-loan/hdb-loan
+            - generic [ref=e2514]:
+              - link "Finance Calculators " [ref=e2515] [cursor=pointer]:
+                - /url: /#
+                - text: Finance Calculators
+                - generic [ref=e2516]: 
+              - generic:
+                - link "Affordability Calculator" [ref=e2518] [cursor=pointer]:
+                  - /url: /mortgage/affordability-calculator
+                - link "Mortgage Calculator" [ref=e2520] [cursor=pointer]:
+                  - /url: /mortgage/calculators/mortgage-repayment
+                - link "Stamp Duty Calculator" [ref=e2522] [cursor=pointer]:
+                  - /url: /mortgage/calculators/stamp-duty
+                - link "TDSR Calculator" [ref=e2524] [cursor=pointer]:
+                  - /url: /mortgage/calculators/tdsr
+            - generic [ref=e2526] [cursor=pointer]: View More
+        - generic [ref=e2528]:
+          - heading "Properties For Sale" [level=5] [ref=e2529]:
+            - link "Properties For Sale" [ref=e2530] [cursor=pointer]:
+              - /url: /property-for-sale
+              - text: Properties For Sale 
+          - generic [ref=e2531]:
+            - link "Singapore Properties For Sale" [ref=e2534] [cursor=pointer]:
+              - /url: /property-for-sale
+            - generic [ref=e2536]:
+              - link "HDB Properties For Sale " [ref=e2537] [cursor=pointer]:
+                - /url: /#
+                - text: HDB Properties For Sale
+                - generic [ref=e2538]: 
+              - generic:
+                - link "HDBs For Sale" [ref=e2540] [cursor=pointer]:
+                  - /url: /hdb-for-sale
+                - link "2 Room HDBs For Sale" [ref=e2542] [cursor=pointer]:
+                  - /url: /hdb-2-room-flat-for-sale
+                - link "3 Room HDBs For Sale" [ref=e2544] [cursor=pointer]:
+                  - /url: /hdb-3-room-flat-for-sale
+                - link "4 Room HDBs For Sale" [ref=e2546] [cursor=pointer]:
+                  - /url: /hdb-4-room-flat-for-sale
+                - link "5 Room HDBs For Sale" [ref=e2548] [cursor=pointer]:
+                  - /url: /hdb-5-room-flat-for-sale
+            - generic [ref=e2550]:
+              - link "Condominiums For Sale " [ref=e2551] [cursor=pointer]:
+                - /url: /#
+                - text: Condominiums For Sale
+                - generic [ref=e2552]: 
+              - generic:
+                - link "Condos For Sale" [ref=e2554] [cursor=pointer]:
+                  - /url: /apartment-condo-for-sale
+                - link "2 Bedroom Condos For Sale" [ref=e2556] [cursor=pointer]:
+                  - /url: /apartment-condo-for-sale/with-2-bedrooms
+                - link "3 Bedroom Condos For Sale" [ref=e2558] [cursor=pointer]:
+                  - /url: /apartment-condo-for-sale/with-3-bedrooms
+                - link "4 Bedroom Condos For Sale" [ref=e2560] [cursor=pointer]:
+                  - /url: /apartment-condo-for-sale/with-4-bedrooms
+            - generic [ref=e2562] [cursor=pointer]: View More
+        - generic [ref=e2565]:
+          - heading "Properties For Rent" [level=5] [ref=e2566]:
+            - link "Properties For Rent" [ref=e2567] [cursor=pointer]:
+              - /url: /property-for-rent
+              - text: Properties For Rent 
+          - generic [ref=e2568]:
+            - link "Singapore Properties For Rent" [ref=e2571] [cursor=pointer]:
+              - /url: /property-for-rent
+            - generic [ref=e2573]:
+              - link "HDB Rentals " [ref=e2574] [cursor=pointer]:
+                - /url: /#
+                - text: HDB Rentals
+                - generic [ref=e2575]: 
+              - generic:
+                - link "HDBs For Rent" [ref=e2577] [cursor=pointer]:
+                  - /url: /hdb-for-rent
+                - link "2 Room HDBs For Rent" [ref=e2579] [cursor=pointer]:
+                  - /url: /hdb-2-room-flat-for-rent
+                - link "3 Room HDBs For Rent" [ref=e2581] [cursor=pointer]:
+                  - /url: /hdb-3-room-flat-for-rent
+                - link "4 Room HDBs For Rent" [ref=e2583] [cursor=pointer]:
+                  - /url: /hdb-4-room-flat-for-rent
+                - link "5 Room HDBs For Rent" [ref=e2585] [cursor=pointer]:
+                  - /url: /hdb-5-room-flat-for-rent
+            - generic [ref=e2587]:
+              - link "Condo Rentals " [ref=e2588] [cursor=pointer]:
+                - /url: /#
+                - text: Condo Rentals
+                - generic [ref=e2589]: 
+              - generic:
+                - link "Condos For Rent" [ref=e2591] [cursor=pointer]:
+                  - /url: /apartment-condo-for-rent
+                - link "2 Bedroom Condos For Rent" [ref=e2593] [cursor=pointer]:
+                  - /url: /apartment-condo-for-rent/with-2-bedrooms
+                - link "3 Bedroom Condos For Rent" [ref=e2595] [cursor=pointer]:
+                  - /url: /apartment-condo-for-rent/with-3-bedrooms
+                - link "4 Bedroom Condos For Rent" [ref=e2597] [cursor=pointer]:
+                  - /url: /apartment-condo-for-rent/with-4-bedrooms
+            - generic [ref=e2599] [cursor=pointer]: View More
+            - generic [ref=e2600]: 
+        - generic [ref=e2602]:
+          - heading "Singapore New Homes" [level=5] [ref=e2603]:
+            - link "Singapore New Homes" [ref=e2604] [cursor=pointer]:
+              - /url: /new-project-launch
+              - text: Singapore New Homes 
+          - generic [ref=e2605]:
+            - link "Singapore Property Launches" [ref=e2608] [cursor=pointer]:
+              - /url: /new-project-launch
+            - link "New Launch Condos" [ref=e2611] [cursor=pointer]:
+              - /url: /new-condominium-launch/1
+            - link "New Executive Condominiums" [ref=e2614] [cursor=pointer]:
+              - /url: /new-executive-condominium-launch/1
+            - generic [ref=e2616] [cursor=pointer]: View More
+            - generic [ref=e2617]: 
+        - generic [ref=e2619]:
+          - heading "Properties For Sale / Rent Near MRT" [level=5] [ref=e2620]:
+            - link "Properties For Sale / Rent Near MRT" [ref=e2621] [cursor=pointer]:
+              - /url: /#
+              - text: Properties For Sale / Rent Near MRT 
+          - generic [ref=e2622]:
+            - generic [ref=e2624]:
+              - link "Properties For Sale Near MRT " [ref=e2625] [cursor=pointer]:
+                - /url: /#
+                - text: Properties For Sale Near MRT
+                - generic [ref=e2626]: 
+              - generic:
+                - link "Properties Near Downtown Line For Sale" [ref=e2628] [cursor=pointer]:
+                  - /url: /property-for-sale/near-downtown-line
+                - link "Properties Near Circle Line For Sale" [ref=e2630] [cursor=pointer]:
+                  - /url: /property-for-sale/near-circle-line
+                - link "Properties Near North East Line For Sale" [ref=e2632] [cursor=pointer]:
+                  - /url: /property-for-sale/near-north-east-line
+                - link "Properties Near North South Line For Sale" [ref=e2634] [cursor=pointer]:
+                  - /url: /property-for-sale/near-north-south-line
+                - link "Properties Near East West Line For Sale" [ref=e2636] [cursor=pointer]:
+                  - /url: /property-for-sale/near-east-west-line
+                - link "Properties Near Yishun MRT For Sale" [ref=e2638] [cursor=pointer]:
+                  - /url: /property-for-sale/near-ns13-yishun-mrt-station-116
+                - link "Properties Near Woodlands MRT For Sale" [ref=e2640] [cursor=pointer]:
+                  - /url: /property-for-sale/near-te1-woodlands-north-mrt-station-8203
+                - link "Properties Near Farrer Park MRT For Sale" [ref=e2642] [cursor=pointer]:
+                  - /url: /property-for-sale/near-ne8-farrer-park-mrt-station-167
+                - link "Properties Near Paya Lebar MRT For Sale" [ref=e2644] [cursor=pointer]:
+                  - /url: /property-for-sale/near-cc9-paya-lebar-mrt-station-8104
+                - link "Properties Near Tanjong Pagar MRT For Sale" [ref=e2646] [cursor=pointer]:
+                  - /url: /property-for-sale/near-ew15-tanjong-pagar-mrt-station-50
+                - link "Properties Near Boon Keng MRT For Sale" [ref=e2648] [cursor=pointer]:
+                  - /url: /property-for-sale/near-ne9-boon-keng-mrt-station-170
+            - generic [ref=e2650]:
+              - link "Properties For Rent Near MRT " [ref=e2651] [cursor=pointer]:
+                - /url: /#
+                - text: Properties For Rent Near MRT
+                - generic [ref=e2652]: 
+              - generic:
+                - link "Properties Near Downtown Line For Rent" [ref=e2654] [cursor=pointer]:
+                  - /url: /property-for-rent/near-downtown-line
+                - link "Properties Near Circle Line For Rent" [ref=e2656] [cursor=pointer]:
+                  - /url: /property-for-rent/near-circle-line
+                - link "Properties Near North East Line For Rent" [ref=e2658] [cursor=pointer]:
+                  - /url: /property-for-rent/near-north-east-line
+                - link "Properties Near North South Line For Rent" [ref=e2660] [cursor=pointer]:
+                  - /url: /property-for-rent/near-north-south-line
+                - link "Properties Near East West Line For Rent" [ref=e2662] [cursor=pointer]:
+                  - /url: /property-for-rent/near-east-west-line
+                - link "Properties Near Yishun MRT For Rent" [ref=e2664] [cursor=pointer]:
+                  - /url: /property-for-rent/near-ns13-yishun-mrt-station-116
+                - link "Properties Near Woodlands MRT For Rent" [ref=e2666] [cursor=pointer]:
+                  - /url: /property-for-rent/near-te1-woodlands-north-mrt-station-8203
+                - link "Properties Near Farrer Park MRT For Rent" [ref=e2668] [cursor=pointer]:
+                  - /url: /property-for-rent/near-ne8-farrer-park-mrt-station-167
+                - link "Properties Near Paya Lebar MRT For Rent" [ref=e2670] [cursor=pointer]:
+                  - /url: /property-for-rent/near-cc9-paya-lebar-mrt-station-8104
+                - link "Properties Near Tanjong Pagar MRT For Rent" [ref=e2672] [cursor=pointer]:
+                  - /url: /property-for-rent/near-ew15-tanjong-pagar-mrt-station-50
+                - link "Properties Near Boon Keng MRT For Rent" [ref=e2674] [cursor=pointer]:
+                  - /url: /property-for-rent/near-ne9-boon-keng-mrt-station-170
+        - generic [ref=e2676]:
+          - heading "Properties Near Educational Institutes" [level=5] [ref=e2677]:
+            - link "Properties Near Educational Institutes" [ref=e2678] [cursor=pointer]:
+              - /url: /#
+              - text: Properties Near Educational Institutes 
+          - generic [ref=e2679]:
+            - generic [ref=e2681]:
+              - link "Properties Near Universities " [ref=e2682] [cursor=pointer]:
+                - /url: /#
+                - text: Properties Near Universities
+                - generic [ref=e2683]: 
+              - generic:
+                - link "NUS" [ref=e2685] [cursor=pointer]:
+                  - /url: /property-for-rent/p/nus
+                - link "NTU" [ref=e2687] [cursor=pointer]:
+                  - /url: /property-for-rent/p/ntu
+                - link "SMU" [ref=e2689] [cursor=pointer]:
+                  - /url: /property-for-rent/p/smu
+                - link "SUSS" [ref=e2691] [cursor=pointer]:
+                  - /url: /property-for-rent/p/suss
+                - link "SIT" [ref=e2693] [cursor=pointer]:
+                  - /url: /property-for-rent/p/sit
+                - link "Dulwich College Singapore" [ref=e2695] [cursor=pointer]:
+                  - /url: /property-for-rent/p/dulwich-college-singapore
+            - generic [ref=e2697]:
+              - link "Properties Near Schools " [ref=e2698] [cursor=pointer]:
+                - /url: /#
+                - text: Properties Near Schools
+                - generic [ref=e2699]: 
+              - generic:
+                - link "Raffles Institution" [ref=e2701] [cursor=pointer]:
+                  - /url: /property-for-rent/p/raffles-institution
+                - link "Wellington Primary School" [ref=e2703] [cursor=pointer]:
+                  - /url: /property-for-rent/p/wellington-primary-school
+                - link "Anderson Secondary School" [ref=e2705] [cursor=pointer]:
+                  - /url: /property-for-rent/p/anderson-secondary-school
+                - link "Australian International School Singapore" [ref=e2707] [cursor=pointer]:
+                  - /url: /property-for-rent/p/australian-international-school-singapore
+                - link "NPS Singapore" [ref=e2709] [cursor=pointer]:
+                  - /url: /property-for-rent/p/nps-singapore
+                - link "Global Indian International School Singapore" [ref=e2711] [cursor=pointer]:
+                  - /url: /property-for-rent/p/global-indian-international-school-singapore
+                - link "DPS International School Singapore" [ref=e2713] [cursor=pointer]:
+                  - /url: /property-for-rent/p/dps-international-school-singapore
+                - link "SJI Singapore" [ref=e2715] [cursor=pointer]:
+                  - /url: /property-for-rent/p/sji-singapore
+                - link "Eton House Singapore" [ref=e2717] [cursor=pointer]:
+                  - /url: /property-for-rent/p/eton-house-singapore
+        - generic [ref=e2719]:
+          - heading "Singapore Popular Areas" [level=5] [ref=e2720]:
+            - link "Singapore Popular Areas" [ref=e2721] [cursor=pointer]:
+              - /url: /singapore
+              - text: Singapore Popular Areas 
+          - generic [ref=e2722]:
+            - link "D04 Harbourfront / Telok Blangah" [ref=e2725] [cursor=pointer]:
+              - /url: /harbourfront-telok-blangah
+            - link "D05 Buona Vista / West Coast / Clementi New Town" [ref=e2728] [cursor=pointer]:
+              - /url: /buona-vista-west-coast-clementi-new-town
+            - link "D08 Farrer Park / Serangoon Rd" [ref=e2731] [cursor=pointer]:
+              - /url: /farrer-park-serangoon-rd
+            - generic [ref=e2733] [cursor=pointer]: View More
+      - generic [ref=e2735]:
+        - generic [ref=e2736]:
+          - link "Acceptable Use Policy" [ref=e2737] [cursor=pointer]:
+            - /url: /customer-service/acceptable-use
+          - link "Terms of Service" [ref=e2738] [cursor=pointer]:
+            - /url: /customer-service/terms-of-service
+          - link "Privacy Policy" [ref=e2739] [cursor=pointer]:
+            - /url: /customer-service/privacy
+          - link "Terms of Purchase" [ref=e2740] [cursor=pointer]:
+            - /url: /customer-service/terms-of-purchase
+        - generic [ref=e2742]:
+          - generic [ref=e2743]: © 2026 PropertyGuru Pte. Ltd.
+          - generic [ref=e2744]: 200615063H
+  - alert [ref=e2745]
+  - text: 
+  - tooltip "Click to hide this listing from your search results. Got it!" [ref=e2746]:
+    - generic [ref=e2749]: Click to hide this listing from your search results.
+    - button "Got it!" [ref=e2750] [cursor=pointer]:
+      - generic [ref=e2752]: Got it!

@@ -1,0 +1,980 @@
+2026-06-17 14:43:35 [INFO    ] conftest: Launching Chromium browser (headless=True, slow_mo=0ms)
+2026-06-17 14:43:35 [DEBUG   ] asyncio: Using proactor: IocpProactor
+2026-06-17 14:43:36 [DEBUG   ] conftest: Browser launched successfully
+2026-06-17 14:43:36 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:43:36 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:43:36 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:43:36 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:43:38 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:44:07 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:44:07 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:44:07 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:44:07 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:44:07 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:44:07 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:44:07 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:44:07 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:44:10 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:44:38 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:44:38 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:44:38 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:44:38 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:44:38 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:44:38 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:44:38 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:44:39 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:44:39 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:44:39 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:44:41 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:45:09 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:45:09 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:45:09 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:45:09 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:45:09 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:45:09 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:45:09 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:45:10 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:45:10 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:45:10 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:45:12 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:45:40 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:45:40 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:45:40 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:45:40 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:45:41 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:45:41 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:45:41 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:45:41 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:45:41 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:45:41 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:45:43 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:46:12 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:46:12 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:46:12 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:46:12 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:46:12 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:46:12 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:46:12 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:46:12 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:46:12 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:46:12 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:46:15 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:46:43 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:46:43 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:46:43 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:46:43 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:46:43 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:46:43 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:46:43 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:46:44 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:46:44 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:46:44 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:46:58 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:47:26 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:47:26 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:47:26 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:47:26 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:47:27 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:47:27 [INFO    ] pages.more_filters_page: Selecting property type: 'Condo'
+2026-06-17 14:47:27 [DEBUG   ] pages.more_filters_page: Listing count: 20
+2026-06-17 14:47:27 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:47:27 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:47:28 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 14:47:28 [DEBUG   ] pages.more_filters_page: Modal closed after Apply
+2026-06-17 14:47:28 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:47:28 [DEBUG   ] pages.more_filters_page: Waiting for results after filter (timeout=15000ms)
+2026-06-17 14:47:29 [INFO    ] pages.more_filters_page: Results refreshed: 20 listing card(s) visible
+2026-06-17 14:47:29 [DEBUG   ] pages.more_filters_page: Listing count: 20
+2026-06-17 14:47:29 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 14:47:29 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:47:29 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:47:29 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:47:29 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:47:29 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:47:32 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:48:00 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:48:00 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:48:00 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:48:00 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:48:01 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:48:01 [INFO    ] pages.more_filters_page: Selecting property type: 'Landed'
+2026-06-17 14:48:01 [DEBUG   ] pages.more_filters_page: Listing count: 20
+2026-06-17 14:48:01 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:48:01 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:48:02 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 14:48:02 [DEBUG   ] pages.more_filters_page: Modal closed after Apply
+2026-06-17 14:48:02 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:48:02 [DEBUG   ] pages.more_filters_page: Waiting for results after filter (timeout=15000ms)
+2026-06-17 14:48:03 [INFO    ] pages.more_filters_page: Results refreshed: 20 listing card(s) visible
+2026-06-17 14:48:03 [DEBUG   ] pages.more_filters_page: Listing count: 20
+2026-06-17 14:48:03 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 14:48:03 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:48:03 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:48:03 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:48:03 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:48:03 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:48:05 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:48:33 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:48:33 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:48:33 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:48:33 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:48:34 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:48:34 [INFO    ] pages.more_filters_page: Selecting property type: 'HDB'
+2026-06-17 14:48:34 [DEBUG   ] pages.more_filters_page: Listing count: 20
+2026-06-17 14:48:34 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:48:34 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:48:35 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 14:48:35 [DEBUG   ] pages.more_filters_page: Modal closed after Apply
+2026-06-17 14:48:35 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:48:35 [DEBUG   ] pages.more_filters_page: Waiting for results after filter (timeout=15000ms)
+2026-06-17 14:48:36 [INFO    ] pages.more_filters_page: Results refreshed: 20 listing card(s) visible
+2026-06-17 14:48:36 [DEBUG   ] pages.more_filters_page: Listing count: 20
+2026-06-17 14:48:36 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 14:48:36 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:48:36 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:48:37 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:48:37 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:48:37 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:48:39 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:49:07 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:49:07 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:49:07 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:49:07 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:49:07 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:49:07 [INFO    ] pages.more_filters_page: Setting min price: 500000
+2026-06-17 14:49:07 [INFO    ] pages.more_filters_page: Setting max price: 1000000
+2026-06-17 14:49:07 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:49:07 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:49:09 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 14:49:09 [DEBUG   ] pages.more_filters_page: Modal closed after Apply
+2026-06-17 14:49:09 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:49:11 [DEBUG   ] utils.helpers: Checking for crash — title: 'houses for sale - between s$ 500k and s$ 1m, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&minprice=500000&maxprice=1000000
+2026-06-17 14:49:11 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 14:49:11 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 14:49:11 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:49:11 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:49:11 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:49:11 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:49:11 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:49:14 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:49:42 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:49:42 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:49:42 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:49:42 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:49:42 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:49:42 [INFO    ] pages.more_filters_page: Setting min price: 1000000
+2026-06-17 14:49:42 [INFO    ] pages.more_filters_page: Setting max price: 3000000
+2026-06-17 14:49:42 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:49:42 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:49:43 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 14:49:43 [DEBUG   ] pages.more_filters_page: Modal closed after Apply
+2026-06-17 14:49:43 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:49:44 [ERROR   ] conftest: JS pageerror: osdlfm is not defined
+2026-06-17 14:49:45 [DEBUG   ] utils.helpers: Checking for crash — title: 'houses for sale - between s$ 1m and s$ 3m, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&minprice=1000000&maxprice=3000000
+2026-06-17 14:49:45 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 14:49:45 [WARNING ] utils.helpers: Ignoring known third-party JS error: osdlfm is not defined
+2026-06-17 14:49:45 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:49:45 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:49:46 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:49:46 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:49:46 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:49:48 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:50:16 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:50:16 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:50:16 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:50:16 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:50:16 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:50:16 [INFO    ] pages.more_filters_page: Selecting bedroom: '2'
+2026-06-17 14:50:17 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:50:17 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:50:18 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 14:50:18 [DEBUG   ] pages.more_filters_page: Modal closed after Apply
+2026-06-17 14:50:18 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:50:18 [DEBUG   ] pages.more_filters_page: Waiting for results after filter (timeout=15000ms)
+2026-06-17 14:50:19 [INFO    ] pages.more_filters_page: Results refreshed: 20 listing card(s) visible
+2026-06-17 14:50:19 [DEBUG   ] pages.more_filters_page: Listing count: 20
+2026-06-17 14:50:19 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 14:50:19 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:50:19 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:50:19 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:50:19 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:50:19 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:50:22 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:50:50 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:50:50 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:50:50 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:50:50 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:50:50 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:50:50 [INFO    ] pages.more_filters_page: Selecting bedroom: '2'
+2026-06-17 14:50:51 [INFO    ] pages.more_filters_page: Selecting bedroom: '3'
+2026-06-17 14:50:51 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:50:51 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:50:52 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 14:50:52 [DEBUG   ] pages.more_filters_page: Modal closed after Apply
+2026-06-17 14:50:52 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:50:52 [DEBUG   ] pages.more_filters_page: Waiting for results after filter (timeout=15000ms)
+2026-06-17 14:50:53 [ERROR   ] conftest: JS pageerror: osdlfm is not defined
+2026-06-17 14:50:53 [INFO    ] pages.more_filters_page: Results refreshed: 20 listing card(s) visible
+2026-06-17 14:50:53 [DEBUG   ] pages.more_filters_page: Listing count: 20
+2026-06-17 14:50:53 [WARNING ] utils.helpers: Ignoring known third-party JS error: osdlfm is not defined
+2026-06-17 14:50:53 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:50:53 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:50:54 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:50:54 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:50:54 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:50:57 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:51:25 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:51:25 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:51:25 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:51:25 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:51:25 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:51:25 [INFO    ] pages.more_filters_page: Selecting property type: 'Condo'
+2026-06-17 14:51:25 [INFO    ] pages.more_filters_page: Selecting bedroom: '3'
+2026-06-17 14:51:26 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:51:26 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:51:27 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 14:51:27 [DEBUG   ] pages.more_filters_page: Modal closed after Apply
+2026-06-17 14:51:27 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:51:27 [DEBUG   ] pages.more_filters_page: Waiting for results after filter (timeout=15000ms)
+2026-06-17 14:51:27 [INFO    ] pages.more_filters_page: Results refreshed: 20 listing card(s) visible
+2026-06-17 14:51:28 [DEBUG   ] pages.more_filters_page: Listing count: 20
+2026-06-17 14:51:28 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 14:51:28 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:51:28 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:51:28 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:51:28 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:51:28 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:51:30 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:51:58 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:51:58 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:51:58 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:51:58 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:51:58 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:51:58 [INFO    ] pages.more_filters_page: Selecting property type: 'Condo'
+2026-06-17 14:51:59 [INFO    ] pages.more_filters_page: Selecting bedroom: '2'
+2026-06-17 14:51:59 [INFO    ] pages.more_filters_page: Clearing all filters in modal
+2026-06-17 14:51:59 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:52:00 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:52:00 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:52:00 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:52:00 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:52:02 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:52:30 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:52:30 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:52:30 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:52:30 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:52:31 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:52:31 [INFO    ] pages.more_filters_page: Selecting property type: 'HDB'
+2026-06-17 14:52:31 [INFO    ] pages.more_filters_page: Closing More Filters modal via close button
+2026-06-17 14:52:34 [DEBUG   ] utils.helpers: Checking for crash — title: '56,135 properties for sale in singapore', url: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:52:34 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 14:52:34 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:52:34 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:52:34 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:52:34 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:52:34 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:52:37 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:53:05 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:53:05 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:53:05 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:53:05 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:53:05 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:53:05 [INFO    ] pages.more_filters_page: Closing More Filters modal via Escape
+2026-06-17 14:53:08 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:53:08 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:53:08 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:53:08 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:53:08 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:53:11 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:53:39 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:53:39 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:53:39 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:53:39 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:53:39 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:53:39 [INFO    ] pages.more_filters_page: Setting min price: 3000000
+2026-06-17 14:53:40 [INFO    ] pages.more_filters_page: Setting max price: 500000
+2026-06-17 14:53:40 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:53:40 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:53:55 [WARNING ] utils.helpers: No matching search XHR — falling back to DOM wait
+2026-06-17 14:54:00 [WARNING ] pages.more_filters_page: Modal did not close after Apply — may still be open
+2026-06-17 14:54:00 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:54:02 [DEBUG   ] utils.helpers: Checking for crash — title: '56,136 properties for sale in singapore', url: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:54:02 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 14:54:02 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 14:54:02 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:54:02 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:54:02 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:54:02 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:54:02 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:54:05 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:54:33 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:54:33 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:54:33 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:54:33 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:54:33 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:54:33 [INFO    ] pages.more_filters_page: Setting min floor size: 5000 sqft
+2026-06-17 14:54:33 [INFO    ] pages.more_filters_page: Setting max floor size: 100 sqft
+2026-06-17 14:54:34 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:54:34 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:54:49 [WARNING ] utils.helpers: No matching search XHR — falling back to DOM wait
+2026-06-17 14:54:54 [WARNING ] pages.more_filters_page: Modal did not close after Apply — may still be open
+2026-06-17 14:54:54 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:54:56 [DEBUG   ] utils.helpers: Checking for crash — title: '56,138 properties for sale in singapore', url: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:54:56 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 14:54:56 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 14:54:56 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:54:56 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:54:56 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:54:56 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:54:56 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:54:58 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:55:26 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:55:26 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:55:26 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:55:26 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:55:27 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:55:27 [INFO    ] pages.more_filters_page: Setting max price: 999999999
+2026-06-17 14:55:27 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:55:27 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:55:28 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 14:55:28 [DEBUG   ] pages.more_filters_page: Modal closed after Apply
+2026-06-17 14:55:28 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:55:29 [ERROR   ] conftest: JS pageerror: osdlfm is not defined
+2026-06-17 14:55:30 [DEBUG   ] utils.helpers: Checking for crash — title: 'houses for sale - below s$ 1,000m, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&maxprice=999999999
+2026-06-17 14:55:30 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 14:55:30 [WARNING ] utils.helpers: Ignoring known third-party JS error: osdlfm is not defined
+2026-06-17 14:55:30 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:55:30 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:55:30 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:55:30 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:55:30 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:55:32 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:56:01 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:56:01 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:56:01 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:56:01 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:56:01 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:56:01 [INFO    ] pages.more_filters_page: Closing More Filters modal via close button
+2026-06-17 14:56:03 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:56:04 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:56:04 [INFO    ] pages.more_filters_page: Closing More Filters modal via close button
+2026-06-17 14:56:06 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:56:06 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:56:06 [INFO    ] pages.more_filters_page: Closing More Filters modal via close button
+2026-06-17 14:56:09 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 14:56:09 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:56:09 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:56:09 [INFO    ] conftest: Setting up more_filters_page fixture
+2026-06-17 14:56:09 [INFO    ] pages.more_filters_page: Opening MoreFiltersPage
+2026-06-17 14:56:09 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:56:13 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:56:41 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:56:41 [DEBUG   ] pages.more_filters_page: MoreFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:56:41 [INFO    ] conftest: more_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:56:41 [INFO    ] pages.more_filters_page: Opening More Filters modal
+2026-06-17 14:56:41 [INFO    ] pages.more_filters_page: More Filters modal is open
+2026-06-17 14:56:41 [INFO    ] pages.more_filters_page: Applying filters
+2026-06-17 14:56:41 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 14:56:42 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 14:56:42 [DEBUG   ] pages.more_filters_page: Modal closed after Apply
+2026-06-17 14:56:42 [INFO    ] pages.more_filters_page: Filters applied
+2026-06-17 14:56:44 [DEBUG   ] utils.helpers: Checking for crash — title: 'houses for sale, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false
+2026-06-17 14:56:44 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 14:56:44 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 14:56:44 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:56:44 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:56:45 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 14:56:45 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 14:56:45 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:56:47 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:57:15 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:57:15 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:57:15 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:57:15 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:57:15 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:57:15 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 14:57:15 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 14:57:15 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:57:20 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:57:48 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:57:48 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:57:48 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:57:48 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:57:48 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:57:48 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 14:57:48 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 14:57:48 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:57:50 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:58:18 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:58:19 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:58:19 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:58:19 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:58:19 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:58:19 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 14:58:19 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 14:58:19 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:58:22 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:58:50 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:58:50 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:58:50 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:58:50 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Property Type' trigger
+2026-06-17 14:58:50 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Property Type tab
+2026-06-17 14:58:50 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:58:50 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:58:50 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 14:58:50 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 14:58:50 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:58:55 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:59:23 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:59:23 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:59:23 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:59:23 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Price' trigger
+2026-06-17 14:59:23 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Price tab
+2026-06-17 14:59:23 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:59:23 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:59:24 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 14:59:24 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 14:59:24 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:59:26 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:59:54 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 14:59:54 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:59:54 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:59:54 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Bedroom' trigger
+2026-06-17 14:59:54 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Bedroom tab
+2026-06-17 14:59:54 [DEBUG   ] conftest: Closing browser context
+2026-06-17 14:59:54 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 14:59:55 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 14:59:55 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 14:59:55 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 14:59:57 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:00:25 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:00:25 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:00:25 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:00:25 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Property Type' trigger
+2026-06-17 15:00:25 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Property Type tab
+2026-06-17 15:00:25 [INFO    ] pages.quick_filters_page: Switching to tab: 'Price'
+2026-06-17 15:00:25 [DEBUG   ] pages.quick_filters_page: Switched to tab: 'Price'
+2026-06-17 15:00:25 [INFO    ] pages.quick_filters_page: Switching to tab: 'Bedroom'
+2026-06-17 15:00:26 [DEBUG   ] pages.quick_filters_page: Switched to tab: 'Bedroom'
+2026-06-17 15:00:26 [DEBUG   ] utils.helpers: Checking for crash — title: '56,146 properties for sale in singapore', url: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:00:26 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:00:26 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:00:26 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:00:26 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:00:26 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:00:26 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:00:30 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:00:58 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:00:58 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:00:58 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:00:58 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Property Type' trigger
+2026-06-17 15:00:58 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Property Type tab
+2026-06-17 15:00:58 [INFO    ] pages.quick_filters_page: Selecting property type: 'Condo'
+2026-06-17 15:00:59 [INFO    ] pages.quick_filters_page: Applying quick filters
+2026-06-17 15:00:59 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:01:00 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:01:00 [DEBUG   ] pages.quick_filters_page: Modal closed after Apply
+2026-06-17 15:01:00 [INFO    ] pages.quick_filters_page: Quick filters applied
+2026-06-17 15:01:00 [INFO    ] pages.quick_filters_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:01:00 [DEBUG   ] pages.quick_filters_page: Listing count: 20
+2026-06-17 15:01:00 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:01:00 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:01:00 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:01:01 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:01:01 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:01:01 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:01:03 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:01:31 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:01:31 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:01:31 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:01:31 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Property Type' trigger
+2026-06-17 15:01:31 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Property Type tab
+2026-06-17 15:01:31 [INFO    ] pages.quick_filters_page: Selecting property type: 'Landed'
+2026-06-17 15:01:32 [INFO    ] pages.quick_filters_page: Applying quick filters
+2026-06-17 15:01:32 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:01:33 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:01:33 [DEBUG   ] pages.quick_filters_page: Modal closed after Apply
+2026-06-17 15:01:33 [INFO    ] pages.quick_filters_page: Quick filters applied
+2026-06-17 15:01:35 [INFO    ] pages.quick_filters_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:01:35 [DEBUG   ] pages.quick_filters_page: Listing count: 20
+2026-06-17 15:01:35 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:01:35 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:01:35 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:01:35 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:01:35 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:01:35 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:01:37 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:02:05 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:02:05 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:02:05 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:02:05 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Property Type' trigger
+2026-06-17 15:02:06 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Property Type tab
+2026-06-17 15:02:06 [INFO    ] pages.quick_filters_page: Selecting property type: 'HDB'
+2026-06-17 15:02:06 [INFO    ] pages.quick_filters_page: Applying quick filters
+2026-06-17 15:02:06 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:02:07 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:02:07 [DEBUG   ] pages.quick_filters_page: Modal closed after Apply
+2026-06-17 15:02:07 [INFO    ] pages.quick_filters_page: Quick filters applied
+2026-06-17 15:02:08 [INFO    ] pages.quick_filters_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:02:08 [DEBUG   ] pages.quick_filters_page: Listing count: 20
+2026-06-17 15:02:08 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:02:08 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:02:08 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:02:08 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:02:08 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:02:08 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:02:11 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:02:39 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:02:39 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:02:39 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:02:39 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Price' trigger
+2026-06-17 15:02:39 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Price tab
+2026-06-17 15:02:39 [INFO    ] pages.quick_filters_page: Setting min price: 500000
+2026-06-17 15:02:39 [INFO    ] pages.quick_filters_page: Setting max price: 1000000
+2026-06-17 15:02:39 [INFO    ] pages.quick_filters_page: Applying quick filters
+2026-06-17 15:02:39 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:02:41 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:02:41 [DEBUG   ] pages.quick_filters_page: Modal closed after Apply
+2026-06-17 15:02:41 [INFO    ] pages.quick_filters_page: Quick filters applied
+2026-06-17 15:02:44 [DEBUG   ] utils.helpers: Checking for crash — title: 'houses for sale - between s$ 500k and s$ 1m, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&minprice=500000&maxprice=1000000
+2026-06-17 15:02:44 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:02:44 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:02:44 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:02:44 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:02:44 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:02:44 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:02:44 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:02:46 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:03:15 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:03:15 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:03:15 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:03:15 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Price' trigger
+2026-06-17 15:03:15 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Price tab
+2026-06-17 15:03:15 [INFO    ] pages.quick_filters_page: Setting min price: 1000000
+2026-06-17 15:03:15 [INFO    ] pages.quick_filters_page: Setting max price: 3000000
+2026-06-17 15:03:15 [INFO    ] pages.quick_filters_page: Applying quick filters
+2026-06-17 15:03:15 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:03:17 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:03:17 [DEBUG   ] pages.quick_filters_page: Modal closed after Apply
+2026-06-17 15:03:17 [INFO    ] pages.quick_filters_page: Quick filters applied
+2026-06-17 15:03:19 [DEBUG   ] utils.helpers: Checking for crash — title: 'houses for sale - between s$ 1m and s$ 3m, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&minprice=1000000&maxprice=3000000
+2026-06-17 15:03:19 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:03:19 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:03:19 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:03:19 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:03:19 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:03:19 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:03:19 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:03:23 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:03:52 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:03:52 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:03:52 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:03:52 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Bedroom' trigger
+2026-06-17 15:03:52 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Bedroom tab
+2026-06-17 15:03:52 [INFO    ] pages.quick_filters_page: Selecting bedroom checkbox: '2'
+2026-06-17 15:03:53 [INFO    ] pages.quick_filters_page: Applying quick filters
+2026-06-17 15:03:53 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:03:54 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:03:54 [DEBUG   ] pages.quick_filters_page: Modal closed after Apply
+2026-06-17 15:03:54 [INFO    ] pages.quick_filters_page: Quick filters applied
+2026-06-17 15:03:57 [INFO    ] pages.quick_filters_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:03:57 [DEBUG   ] pages.quick_filters_page: Listing count: 20
+2026-06-17 15:03:57 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:03:57 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:03:57 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:03:57 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:03:57 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:03:57 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:04:00 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:04:28 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:04:28 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:04:28 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:04:28 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Bedroom' trigger
+2026-06-17 15:04:28 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Bedroom tab
+2026-06-17 15:04:28 [INFO    ] pages.quick_filters_page: Selecting bedroom checkbox: '2'
+2026-06-17 15:04:29 [INFO    ] pages.quick_filters_page: Selecting bedroom checkbox: '3'
+2026-06-17 15:04:29 [INFO    ] pages.quick_filters_page: Applying quick filters
+2026-06-17 15:04:29 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:04:30 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:04:30 [DEBUG   ] pages.quick_filters_page: Modal closed after Apply
+2026-06-17 15:04:30 [INFO    ] pages.quick_filters_page: Quick filters applied
+2026-06-17 15:04:31 [INFO    ] pages.quick_filters_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:04:31 [DEBUG   ] pages.quick_filters_page: Listing count: 20
+2026-06-17 15:04:31 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:04:31 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:04:32 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:04:32 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:04:32 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:04:32 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:04:35 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:05:03 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:05:03 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:05:03 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:05:03 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Property Type' trigger
+2026-06-17 15:05:04 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Property Type tab
+2026-06-17 15:05:04 [INFO    ] pages.quick_filters_page: Selecting property type: 'Condo'
+2026-06-17 15:05:04 [INFO    ] pages.quick_filters_page: Clearing quick filter selections
+2026-06-17 15:05:04 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:05:04 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:05:04 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:05:04 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:05:04 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:05:07 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:05:35 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:05:35 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:05:35 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:05:35 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Bedroom' trigger
+2026-06-17 15:05:35 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Bedroom tab
+2026-06-17 15:05:35 [INFO    ] pages.quick_filters_page: Selecting bedroom checkbox: '2'
+2026-06-17 15:05:35 [INFO    ] pages.quick_filters_page: Selecting bedroom checkbox: '3'
+2026-06-17 15:05:35 [INFO    ] pages.quick_filters_page: Clearing quick filter selections
+2026-06-17 15:05:36 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:05:36 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:05:36 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:05:36 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:05:36 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:05:38 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:06:07 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:06:07 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:06:07 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:06:07 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Property Type' trigger
+2026-06-17 15:06:07 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Property Type tab
+2026-06-17 15:06:07 [INFO    ] pages.quick_filters_page: Applying quick filters
+2026-06-17 15:06:07 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:06:08 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:06:08 [DEBUG   ] pages.quick_filters_page: Modal closed after Apply
+2026-06-17 15:06:08 [INFO    ] pages.quick_filters_page: Quick filters applied
+2026-06-17 15:06:10 [DEBUG   ] utils.helpers: Checking for crash — title: 'houses for sale, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false
+2026-06-17 15:06:10 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:06:10 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:06:10 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:06:10 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:06:10 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:06:10 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:06:10 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:06:13 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:06:41 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:06:41 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:06:41 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:06:41 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Price' trigger
+2026-06-17 15:06:41 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Price tab
+2026-06-17 15:06:41 [INFO    ] pages.quick_filters_page: Setting min price: 3000000
+2026-06-17 15:06:41 [INFO    ] pages.quick_filters_page: Setting max price: 500000
+2026-06-17 15:06:41 [DEBUG   ] utils.helpers: Checking for crash — title: '56,148 properties for sale in singapore', url: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:06:41 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:06:41 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:06:41 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:06:42 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:06:42 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:06:42 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:06:42 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:06:44 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:07:12 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:07:12 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:07:12 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:07:12 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Property Type' trigger
+2026-06-17 15:07:12 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Property Type tab
+2026-06-17 15:07:12 [INFO    ] pages.quick_filters_page: Selecting property type: 'Landed'
+2026-06-17 15:07:13 [INFO    ] pages.quick_filters_page: Closing Quick Filters modal via Escape
+2026-06-17 15:07:13 [DEBUG   ] pages.quick_filters_page: Quick Filters modal closed
+2026-06-17 15:07:15 [DEBUG   ] utils.helpers: Checking for crash — title: '56,148 properties for sale in singapore', url: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:07:15 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:07:15 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:07:15 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:07:16 [INFO    ] conftest: Setting up quick_filters_page fixture
+2026-06-17 15:07:16 [INFO    ] pages.quick_filters_page: Opening QuickFiltersPage
+2026-06-17 15:07:16 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:07:20 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:07:48 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:07:48 [DEBUG   ] pages.quick_filters_page: QuickFiltersPage ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:07:48 [INFO    ] conftest: quick_filters_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:07:48 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Property Type' trigger
+2026-06-17 15:07:48 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Property Type tab
+2026-06-17 15:07:48 [INFO    ] pages.quick_filters_page: Closing Quick Filters modal via Escape
+2026-06-17 15:07:48 [DEBUG   ] pages.quick_filters_page: Quick Filters modal closed
+2026-06-17 15:07:51 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Price' trigger
+2026-06-17 15:07:51 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Price tab
+2026-06-17 15:07:51 [INFO    ] pages.quick_filters_page: Closing Quick Filters modal via Escape
+2026-06-17 15:07:51 [DEBUG   ] pages.quick_filters_page: Quick Filters modal closed
+2026-06-17 15:07:53 [INFO    ] pages.quick_filters_page: Opening Quick Filters via 'Bedroom' trigger
+2026-06-17 15:07:53 [INFO    ] pages.quick_filters_page: Quick Filters modal open on Bedroom tab
+2026-06-17 15:07:53 [INFO    ] pages.quick_filters_page: Closing Quick Filters modal via Escape
+2026-06-17 15:07:53 [DEBUG   ] pages.quick_filters_page: Quick Filters modal closed
+2026-06-17 15:07:55 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:07:55 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:07:55 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:07:55 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:07:55 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:07:55 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:07:59 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:08:27 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:08:27 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:08:27 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:08:27 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:08:27 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:08:27 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:08:27 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:08:31 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:08:59 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:08:59 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:08:59 [INFO    ] pages.search_box_page: Searching for: 'Tampines'
+2026-06-17 15:08:59 [INFO    ] pages.search_box_page: Typing into search box: 'Tampines'
+2026-06-17 15:08:59 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:08:59 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:09:00 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:09:02 [INFO    ] pages.search_box_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:09:02 [DEBUG   ] pages.search_box_page: Listing card count: 20
+2026-06-17 15:09:02 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:09:02 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:09:02 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:09:02 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:09:02 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:09:02 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:09:05 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:09:33 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:09:33 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:09:33 [INFO    ] pages.search_box_page: Searching for: 'Orchard Road'
+2026-06-17 15:09:33 [INFO    ] pages.search_box_page: Typing into search box: 'Orchard Road'
+2026-06-17 15:09:33 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:09:33 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:09:34 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:09:35 [INFO    ] pages.search_box_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:09:35 [DEBUG   ] pages.search_box_page: Listing card count: 20
+2026-06-17 15:09:35 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:09:35 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:09:35 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:09:35 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:09:35 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:09:35 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:09:39 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:10:07 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:10:07 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:10:07 [INFO    ] pages.search_box_page: Searching for: 'Bishan'
+2026-06-17 15:10:07 [INFO    ] pages.search_box_page: Typing into search box: 'Bishan'
+2026-06-17 15:10:07 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:10:07 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:10:08 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:10:09 [INFO    ] pages.search_box_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:10:09 [DEBUG   ] pages.search_box_page: Listing card count: 20
+2026-06-17 15:10:09 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:10:09 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:10:09 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:10:09 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:10:09 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:10:09 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:10:12 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:10:40 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:10:40 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:10:40 [INFO    ] pages.search_box_page: Typing char-by-char: 'Tam' (delay=80ms)
+2026-06-17 15:10:41 [DEBUG   ] pages.search_box_page: Waiting for autocomplete suggestions (timeout=5000ms)
+2026-06-17 15:10:42 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:10:42 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:10:43 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:10:43 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:10:43 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:10:46 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:11:14 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:11:14 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:11:14 [INFO    ] pages.search_box_page: Typing char-by-char: 'Tam' (delay=80ms)
+2026-06-17 15:11:14 [DEBUG   ] pages.search_box_page: Waiting for autocomplete suggestions (timeout=5000ms)
+2026-06-17 15:11:16 [INFO    ] pages.search_box_page: Autocomplete suggestions (20): ['D18 Pasir Ris / Tampines\nD18\nDistrict', 'Tampines\nHDB Estate', 'DT32 Tampines MRT Station\n15 Tampines Central 1, 529544\nMRT Station', 'EW2 Tampines MRT Station\n20 Tampines Central 1, 529538\nMRT Station', 'DT31 Tampines West MRT Station\n2 Tampines Ave 4, 529683\nMRT Station', 'DT33 Tampines East MRT Station\n20 Tampines Avenue 7, 529623\nMRT Station', 'CR6 Tampines North MRT Station\nTampines Avenue 6, 520614\nMRT Station', 'Tampines Street 82\nStreet', 'Tampines Avenue 9\nStreet', 'Tampines Street 11\nStreet', 'Tampines Street 21\nStreet', 'Tampines Street 45\nStreet', 'Tampines Street 71\nStreet', 'Tampines Street 81\nStreet', 'Tampines Central 7\nStreet', 'Tampines Secondary School\n2 Bedok South Road, 469268\nSchool', 'Tampines North Primary School\n30 Tampines Ave 9, 529565\nSchool', 'Tampines Primary School\n250 Tampines St 12, 529426\nSchool', 'Tampinese St 82\nStreet', 'Tampines Industrial Park A\nStreet']
+2026-06-17 15:11:16 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:11:16 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:11:16 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:11:16 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:11:16 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:11:21 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:11:49 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:11:49 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:11:49 [INFO    ] pages.search_box_page: Typing char-by-char: 'Tam' (delay=80ms)
+2026-06-17 15:11:50 [DEBUG   ] pages.search_box_page: Waiting for autocomplete suggestions (timeout=5000ms)
+2026-06-17 15:11:51 [INFO    ] pages.search_box_page: Selecting autocomplete suggestion at index 0
+2026-06-17 15:11:51 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:11:51 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:11:53 [INFO    ] pages.search_box_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:11:53 [DEBUG   ] pages.search_box_page: Listing card count: 20
+2026-06-17 15:11:53 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:11:53 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:11:53 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:11:53 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:11:53 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:11:58 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:12:26 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:12:26 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:12:26 [INFO    ] pages.search_box_page: Typing into search box: 'Orchard'
+2026-06-17 15:12:26 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:12:26 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:12:27 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:12:29 [INFO    ] pages.search_box_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:12:29 [DEBUG   ] pages.search_box_page: Listing card count: 20
+2026-06-17 15:12:29 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:12:29 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:12:29 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:12:29 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:12:29 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:12:32 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:13:00 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:13:00 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:13:01 [INFO    ] pages.search_box_page: Searching for: 'Tampines'
+2026-06-17 15:13:01 [INFO    ] pages.search_box_page: Typing into search box: 'Tampines'
+2026-06-17 15:13:01 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:13:01 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:13:02 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:13:02 [INFO    ] pages.search_box_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:13:02 [DEBUG   ] pages.search_box_page: Listing card count: 20
+2026-06-17 15:13:02 [INFO    ] pages.search_box_page: Clearing search via clear button
+2026-06-17 15:13:03 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:13:03 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:13:03 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:13:03 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:13:03 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:13:06 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:13:34 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:13:34 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:13:34 [INFO    ] pages.search_box_page: Searching for: 'Bishan'
+2026-06-17 15:13:34 [INFO    ] pages.search_box_page: Typing into search box: 'Bishan'
+2026-06-17 15:13:35 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:13:35 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:13:36 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:13:36 [INFO    ] pages.search_box_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:13:42 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:13:42 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:13:43 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:13:43 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:13:43 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:13:46 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:14:14 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:14:14 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:14:14 [INFO    ] pages.search_box_page: Searching for: 'Tampines'
+2026-06-17 15:14:14 [INFO    ] pages.search_box_page: Typing into search box: 'Tampines'
+2026-06-17 15:14:14 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:14:14 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:14:15 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:14:16 [INFO    ] pages.search_box_page: Results loaded: 20 listing card(s) visible
+2026-06-17 15:14:16 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:14:16 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:14:16 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:14:16 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:14:16 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:14:19 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:14:47 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:14:47 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:14:47 [INFO    ] pages.search_box_page: Typing into search box: '   '
+2026-06-17 15:14:49 [DEBUG   ] utils.helpers: Checking for crash — title: 'no results for house for sale - , jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&_freetextdisplay=+++&freetext=+++
+2026-06-17 15:14:49 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:14:49 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:14:49 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:14:49 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:14:50 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:14:50 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:14:50 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:14:52 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:15:21 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:15:21 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:15:21 [INFO    ] pages.search_box_page: Typing into search box: '<script>alert(1)</script>'
+2026-06-17 15:15:23 [DEBUG   ] utils.helpers: Checking for crash — title: 'internet security by zscaler', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&_freetextdisplay=%3cscript%3ealert%281%29%3c%2fscript%3e&freetext=%3cscript%3ealert%281%29%3c%2fscript%3e
+2026-06-17 15:15:23 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:15:23 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:15:23 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:15:23 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:15:23 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:15:23 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:15:23 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:15:26 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:15:55 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:15:55 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:15:55 [INFO    ] pages.search_box_page: Typing into search box: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+2026-06-17 15:15:57 [DEBUG   ] utils.helpers: Checking for crash — title: 'no results for house for sale - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&_freetextdisplay=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&freetext=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2026-06-17 15:15:57 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:15:57 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:15:57 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:15:57 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:15:57 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:15:57 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:15:57 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:16:01 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:16:29 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:16:29 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:16:29 [INFO    ] pages.search_box_page: Searching for: 'ZZZNonExistentPlace123'
+2026-06-17 15:16:29 [INFO    ] pages.search_box_page: Typing into search box: 'ZZZNonExistentPlace123'
+2026-06-17 15:16:29 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:16:29 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:16:30 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:16:33 [DEBUG   ] pages.search_box_page: No-results banner visible: True
+2026-06-17 15:16:33 [DEBUG   ] pages.search_box_page: Listing card count: 0
+2026-06-17 15:16:33 [DEBUG   ] utils.helpers: Checking for crash — title: 'no results for house for sale - zzz non existent place 123, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&_freetextdisplay=zzznonexistentplace123&freetext=zzznonexistentplace123
+2026-06-17 15:16:33 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:16:33 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:16:33 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:16:33 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:16:33 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:16:33 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:16:33 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:16:36 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:17:04 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:17:04 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:17:04 [INFO    ] pages.search_box_page: Searching for: '999999'
+2026-06-17 15:17:04 [INFO    ] pages.search_box_page: Typing into search box: '999999'
+2026-06-17 15:17:04 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:17:04 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:17:05 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:17:07 [DEBUG   ] utils.helpers: Checking for crash — title: 'house for sale - 999999, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&_freetextdisplay=999999&freetext=999999
+2026-06-17 15:17:07 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:17:07 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:17:07 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:17:07 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:17:07 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:17:07 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:17:07 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:17:10 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:17:38 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:17:38 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:17:38 [INFO    ] pages.search_box_page: Typing into search box: '🏠🏡🏘️'
+2026-06-17 15:17:41 [DEBUG   ] utils.helpers: Checking for crash — title: 'no results for house for sale - 🏠 🏡 🏘️, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&_freetextdisplay=%f0%9f%8f%a0%f0%9f%8f%a1%f0%9f%8f%98%ef%b8%8f&freetext=%f0%9f%8f%a0%f0%9f%8f%a1%f0%9f%8f%98%ef%b8%8f
+2026-06-17 15:17:41 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:17:41 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:17:41 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:17:41 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:17:41 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:17:41 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:17:41 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:17:44 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:18:12 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:18:12 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:18:12 [INFO    ] pages.search_box_page: Searching for: "' OR '1'='1"
+2026-06-17 15:18:12 [INFO    ] pages.search_box_page: Typing into search box: "' OR '1'='1"
+2026-06-17 15:18:12 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:18:12 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:18:13 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:18:15 [DEBUG   ] utils.helpers: Checking for crash — title: 'houses for sale - or 1 1, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&_freetextdisplay=%27+or+%271%27%3d%271&freetext=%27+or+%271%27%3d%271
+2026-06-17 15:18:15 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:18:15 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:18:15 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:18:15 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:18:15 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:18:15 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:18:15 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:18:18 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:18:46 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:18:47 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:18:48 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:18:48 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:18:48 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:18:51 [DEBUG   ] utils.helpers: Checking for crash — title: 'houses for sale - tampines, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false&_freetextdisplay=tampines&freetext=tampines
+2026-06-17 15:18:51 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:18:51 [DEBUG   ] utils.helpers: No JavaScript errors detected
+2026-06-17 15:18:51 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:18:51 [DEBUG   ] conftest: Creating new browser context (viewport={'width': 1440, 'height': 900})
+2026-06-17 15:18:51 [INFO    ] conftest: Setting up search_page fixture
+2026-06-17 15:18:51 [INFO    ] pages.search_box_page: Opening SearchBoxPage
+2026-06-17 15:18:51 [INFO    ] pages.base_page: Navigating to: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:18:55 [DEBUG   ] pages.base_page: Page loaded: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:19:23 [DEBUG   ] pages.base_page: No cookie banner detected
+2026-06-17 15:19:23 [INFO    ] conftest: search_page ready at: https://www.propertyguru.com.sg/property-for-sale
+2026-06-17 15:19:23 [INFO    ] pages.search_box_page: Submitting search via Enter key
+2026-06-17 15:19:23 [DEBUG   ] utils.helpers: Waiting for search API response (timeout=15000ms)
+2026-06-17 15:19:24 [DEBUG   ] utils.helpers: Search API response received
+2026-06-17 15:19:26 [DEBUG   ] utils.helpers: Checking for crash — title: 'houses for sale, jun 2026', url: https://www.propertyguru.com.sg/property-for-sale?listingtype=sale&page=1&iscommercial=false
+2026-06-17 15:19:26 [DEBUG   ] utils.helpers: No crash detected
+2026-06-17 15:19:26 [DEBUG   ] conftest: Closing browser context
+2026-06-17 15:19:26 [INFO    ] conftest: Closing browser
